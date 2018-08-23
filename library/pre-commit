@@ -1,0 +1,46 @@
+#!/bin/sh
+
+MAX_SIZE=98*1000*1000
+export TOP_PID=$$
+trap 'exit 1' TERM
+
+SolveBigFile(){
+    file_size=$(stat -c %s "${1}")
+        if [[ $file_size -gt $MAX_SIZE ]]; then
+            file_size=$(awk 'BEGIN{printf "%.2f\n",'$file_size'/'1000000'}')
+            echo "The file is too large."
+            echo "    File Name: ${1}"
+            echo "    File Size: ${file_size} MB"
+            echo "Solution:  git reset HEAD <file> and rm <file>"
+
+            git reset "${1}"
+            rm "${1}"
+            return 1
+        else
+        	return 0
+        fi
+}
+
+
+for file in ./*
+do
+    if test -f "${file}"
+    then
+        SolveBigFile "${file}"
+    fi
+    if test -d "${file}"
+    then
+        ls "${file}" | while read sub_file
+        do
+            if test -d "${sub_file}"; then
+                echo "error: the directory has sub dir."
+                exit 1
+            fi
+
+            SolveBigFile "${file}/${sub_file}"
+            if [ 1 -eq $? ]; then
+            	kill -s TERM $TOP_PID
+            fi
+        done
+    fi
+done

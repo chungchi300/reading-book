@@ -1,0 +1,4734 @@
+%PDF-1.6%âãÏÓ
+1 0 obj<</Names 244 0 R/Outlines 5 0 R/Metadata 249 0 R/Pages 2 0 R/SpiderInfo 234 0 R/StructTreeRoot 7 0 R/Type/Catalog>>endobj2 0 obj<</Count 26/Type/Pages/Kids[112 0 R 111 0 R 139 0 R 158 0 R 190 0 R]>>endobj3 0 obj<</CreationDate(D:20070918145943-04'00')/Producer(Acrobat Web Capture 7.0)/ModDate(D:20070918145944-04'00')/Title(How To Ask Questions The Smart Way)>>endobj5 0 obj<</First 247 0 R/Count 2/Last 247 0 R/Type/Outlines>>endobj7 0 obj<</K 9 0 R/ParentTree 12 0 R/ParentTreeNextKey 26/Type/StructTreeRoot/ClassMap 8 0 R>>endobj8 0 obj<</SpdrArt<</O/WebCapture>>>>endobj9 0 obj<</K 10 0 R/P 7 0 R/S/Document>>endobj10 0 obj<</C/SpdrArt/K[0<</MCID 0/Pg 21 0 R/Type/MCR>><</MCID 0/Pg 59 0 R/Type/MCR>><</MCID 0/Pg 86 0 R/Type/MCR>><</MCID 0/Pg 93 0 R/Type/MCR>><</MCID 0/Pg 98 0 R/Type/MCR>><</MCID 0/Pg 100 0 R/Type/MCR>><</MCID 0/Pg 102 0 R/Type/MCR>><</MCID 0/Pg 104 0 R/Type/MCR>><</MCID 0/Pg 106 0 R/Type/MCR>><</MCID 0/Pg 110 0 R/Type/MCR>><</MCID 0/Pg 121 0 R/Type/MCR>><</MCID 0/Pg 126 0 R/Type/MCR>><</MCID 0/Pg 132 0 R/Type/MCR>><</MCID 0/Pg 135 0 R/Type/MCR>><</MCID 0/Pg 138 0 R/Type/MCR>><</MCID 0/Pg 143 0 R/Type/MCR>><</MCID 0/Pg 148 0 R/Type/MCR>><</MCID 0/Pg 151 0 R/Type/MCR>><</MCID 0/Pg 154 0 R/Type/MCR>><</MCID 0/Pg 157 0 R/Type/MCR>><</MCID 0/Pg 164 0 R/Type/MCR>><</MCID 0/Pg 177 0 R/Type/MCR>><</MCID 0/Pg 183 0 R/Type/MCR>><</MCID 0/Pg 186 0 R/Type/MCR>><</MCID 0/Pg 189 0 R/Type/MCR>>]/P 9 0 R/S/Article/T()/Pg 11 0 R>>endobj11 0 obj<</Annots 15 0 R/Parent 112 0 R/ID 240 0 R/StructParents 0/Contents 207 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 115 0 R/T1_3 116 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj12 0 obj<</Nums[0 13 0 R 1 24 0 R 2 60 0 R 3 87 0 R 4 94 0 R 5 99 0 R 6 101 0 R 7 103 0 R 8 105 0 R 9 107 0 R 10 118 0 R 11 123 0 R 12 129 0 R 13 134 0 R 14 137 0 R 15 142 0 R 16 145 0 R 17 150 0 R 18 153 0 R 19 156 0 R 20 160 0 R 21 166 0 R 22 179 0 R 23 185 0 R 24 188 0 R 25 192 0 R]>>endobj13 0 obj[10 0 R]endobj14 0 obj<</Rect[10.0 649.954 121.594 664.954]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.catb.org/~esr/)/S/URI>>/Border[0 0 0]>>endobj15 0 obj[14 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R]endobj16 0 obj<</Rect[32.4 598.154 158.4 613.154]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(mailto:esr@thyrsus.com)/S/URI>>/Border[0 0 0]>>endobj17 0 obj<</Rect[32.4 491.169 259.2 506.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(mailto:respond-auto@linuxmafia.com)/S/URI>>/Border[0 0 0]>>endobj18 0 obj<</Rect[10.0 75.1692 79.216 90.1692]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#translations)/S/URI>>/Border[0 0 0]>>endobj19 0 obj<</Rect[10.0 56.3692 71.432 71.3692]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#disclaimer)/S/URI>>/Border[0 0 0]>>endobj20 0 obj<</Rect[10.0 37.5692 79.216 52.5692]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#intro)/S/URI>>/Border[0 0 0]>>endobj21 0 obj<</Annots 23 0 R/Parent 112 0 R/ID 240 0 R/StructParents 1/Contents 208 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj22 0 obj<</Rect[10.0 748.769 101.756 763.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#before)/S/URI>>/Border[0 0 0]>>endobj23 0 obj[22 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R]endobj24 0 obj[10 0 R]endobj25 0 obj<</Rect[10.0 729.969 97.094 744.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#asking)/S/URI>>/Border[0 0 0]>>endobj26 0 obj<</Rect[50.0 711.169 212.134 726.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#forum)/S/URI>>/Border[0 0 0]>>endobj27 0 obj<</Rect[50.0 692.369 499.078 707.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#usefora)/S/URI>>/Border[0 0 0]>>endobj28 0 obj<</Rect[50.0 673.569 284.094 688.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#uselists)/S/URI>>/Border[0 0 0]>>endobj29 0 obj<</Rect[50.0 654.769 278.998 669.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#bespecific)/S/URI>>/Border[0 0 0]>>endobj30 0 obj<</Rect[50.0 635.969 168.202 650.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#easyreply)/S/URI>>/Border[0 0 0]>>endobj31 0 obj<</Rect[50.0 617.169 359.078 632.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#writewell)/S/URI>>/Border[0 0 0]>>endobj32 0 obj<</Rect[50.0 598.369 309.742 613.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#formats)/S/URI>>/Border[0 0 0]>>endobj33 0 obj<</Rect[50.0 579.569 315.174 594.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#beprecise)/S/URI>>/Border[0 0 0]>>endobj34 0 obj<</Rect[50.0 560.769 184.162 575.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#volume)/S/URI>>/Border[0 0 0]>>endobj35 0 obj<</Rect[50.0 541.969 264.438 556.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id270918)/S/URI>>/Border[0 0 0]>>endobj36 0 obj<</Rect[50.0 523.169 359.54 538.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271076)/S/URI>>/Border[0 0 0]>>endobj37 0 obj<</Rect[50.0 504.369 339.884 519.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#symptoms)/S/URI>>/Border[0 0 0]>>endobj38 0 obj<</Rect[50.0 485.569 376.032 500.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#chronology)/S/URI>>/Border[0 0 0]>>endobj39 0 obj<</Rect[50.0 466.769 219.526 481.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#goal)/S/URI>>/Border[0 0 0]>>endobj40 0 obj<</Rect[50.0 447.969 289.316 462.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#noprivate)/S/URI>>/Border[0 0 0]>>endobj41 0 obj<</Rect[50.0 429.169 225.77 444.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#explicit)/S/URI>>/Border[0 0 0]>>endobj42 0 obj<</Rect[50.0 410.369 188.026 425.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#code)/S/URI>>/Border[0 0 0]>>endobj43 0 obj<</Rect[50.0 391.569 227.128 406.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#homework)/S/URI>>/Border[0 0 0]>>endobj44 0 obj<</Rect[50.0 372.769 179.878 387.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#prune)/S/URI>>/Border[0 0 0]>>endobj45 0 obj<</Rect[50.0 353.969 369.802 368.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#urgent)/S/URI>>/Border[0 0 0]>>endobj46 0 obj<</Rect[50.0 335.169 290.31 350.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#courtesy)/S/URI>>/Border[0 0 0]>>endobj47 0 obj<</Rect[50.0 316.369 289.554 331.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#followup)/S/URI>>/Border[0 0 0]>>endobj48 0 obj<</Rect[10.0 297.569 160.458 312.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#answers)/S/URI>>/Border[0 0 0]>>endobj49 0 obj<</Rect[50.0 278.769 404.438 293.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#rtfm)/S/URI>>/Border[0 0 0]>>endobj50 0 obj<</Rect[50.0 259.969 190.168 274.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#lesser)/S/URI>>/Border[0 0 0]>>endobj51 0 obj<</Rect[50.0 241.169 175.202 256.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#keepcool)/S/URI>>/Border[0 0 0]>>endobj52 0 obj<</Rect[10.0 222.369 183.026 237.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#not_losing)/S/URI>>/Border[0 0 0]>>endobj53 0 obj<</Rect[10.0 203.569 135.608 218.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#classic)/S/URI>>/Border[0 0 0]>>endobj54 0 obj<</Rect[10.0 184.769 150.378 199.769]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#examples)/S/URI>>/Border[0 0 0]>>endobj55 0 obj<</Rect[10.0 165.969 170.762 180.969]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272290)/S/URI>>/Border[0 0 0]>>endobj56 0 obj<</Rect[10.0 147.169 263.12 162.169]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272330)/S/URI>>/Border[0 0 0]>>endobj57 0 obj<</Rect[10.0 128.369 113.81 143.369]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272405)/S/URI>>/Border[0 0 0]>>endobj58 0 obj<</Rect[10.0 109.569 121.202 124.569]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272432)/S/URI>>/Border[0 0 0]>>endobj59 0 obj<</Annots 62 0 R/Parent 112 0 R/ID 240 0 R/StructParents 2/Contents 209 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj60 0 obj[10 0 R]endobj61 0 obj<</Rect[86.608 740.508 191.972 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://bulsara.host.sk/index.php?p=2005)/S/URI>>/Border[0 0 0]>>endobj62 0 obj[61 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R]endobj63 0 obj<</Rect[195.472 740.508 303.566 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.istf.com.br/perguntas/)/S/URI>>/Border[0 0 0]>>endobj64 0 obj<</Rect[307.066 740.508 352.174 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.lat30n.cn/doc/oss/smart-questions.html)/S/URI>>/Border[0 0 0]>>endobj65 0 obj<</Rect[355.674 740.508 390.66 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.stare.cz/otazky.html)/S/URI>>/Border[0 0 0]>>endobj66 0 obj<</Rect[394.16 740.508 433.822 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.usenet.dk/netikette/udvdebatteknik.html)/S/URI>>/Border[0 0 0]>>endobj67 0 obj<</Rect[437.322 740.508 486.322 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://linux.ee/~kala/smart-questions.html)/S/URI>>/Border[0 0 0]>>endobj68 0 obj<</Rect[489.822 740.508 531.836 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://lumpio.no-ip.com/fiksut-kysymykset.html)/S/URI>>/Border[0 0 0]>>endobj69 0 obj<</Rect[535.336 740.508 574.214 755.508]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.gnurou.org/documents/smart-questions-fr.html)/S/URI>>/Border[0 0 0]>>endobj70 0 obj<</Rect[10.0 721.708 62.094 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://maxo127.narod.ru/Geo/Articles/smart-questions_ge.html)/S/URI>>/Border[0 0 0]>>endobj71 0 obj<</Rect[65.594 721.708 110.688 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.lugbz.org/documents/smart-questions_de.html)/S/URI>>/Border[0 0 0]>>endobj72 0 obj<</Rect[114.188 721.708 158.498 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.penguin.org.il/essays/smart-questions-he.html)/S/URI>>/Border[0 0 0]>>endobj73 0 obj<</Rect[161.998 721.708 221.092 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.no.info.hu/~kryss/gnu/esr/smart-questions_hu.html)/S/URI>>/Border[0 0 0]>>endobj74 0 obj<</Rect[224.592 721.708 260.362 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://xoomer.virgilio.it/army1987k)/S/URI>>/Border[0 0 0]>>endobj75 0 obj<</Rect[263.862 721.708 313.618 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.ranvis.com/articles/smart-questions.ja.html)/S/URI>>/Border[0 0 0]>>endobj76 0 obj<</Rect[317.118 721.708 352.132 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://rtfm.killfile.pl/)/S/URI>>/Border[0 0 0]>>endobj77 0 obj<</Rect[355.632 721.708 417.848 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.celiojunior.com.br/comofazerperguntas.htm)/S/URI>>/Border[0 0 0]>>endobj78 0 obj<</Rect[421.348 721.708 478.902 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://wiki.lug.ro/mediawiki/index.php/Cum_se_pun_%C3%AEntreb%C4%83ri_%C3%AEn_mod_inteligent)/S/URI>>/Border[0 0 0]>>endobj79 0 obj<</Rect[482.402 721.708 526.74 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.linuxrsp.ru/artic/smart-questions-ru.html)/S/URI>>/Border[0 0 0]>>endobj80 0 obj<</Rect[530.24 721.708 573.01 736.708]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://solair.eunet.yu/~fangorn/smart_questions/smart-questions.sr.html)/S/URI>>/Border[0 0 0]>>endobj81 0 obj<</Rect[10.0 702.908 54.338 717.908]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.sindominio.net/ayuda/preguntas-inteligentes.html)/S/URI>>/Border[0 0 0]>>endobj82 0 obj<</Rect[57.838 702.908 105.284 717.908]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.se.linux.org/dokumentation/howto/smartafragor)/S/URI>>/Border[0 0 0]>>endobj83 0 obj<</Rect[108.784 702.908 152.338 717.908]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://belgeler.org/howto/smart-questions.html)/S/URI>>/Border[0 0 0]>>endobj84 0 obj<</Rect[10.0 684.108 93.608 699.108]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.catb.org/~esr/copying.html)/S/URI>>/Border[0 0 0]>>endobj85 0 obj<</Rect[97.094 281.985 139.85 296.985]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.catb.org/~esr/faqs/hacker-howto.html)/S/URI>>/Border[0 0 0]>>endobj86 0 obj<</Annots 89 0 R/Parent 112 0 R/ID 240 0 R/StructParents 3/Contents 210 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj87 0 obj[10 0 R]endobj88 0 obj<</Rect[412.066 95.8 509.338 110.8]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(mailto:esr@thyrsus.com)/S/URI>>/Border[0 0 0]>>endobj89 0 obj[88 0 R 90 0 R 91 0 R 92 0 R]endobj90 0 obj<</Rect[528.0 95.8 576.986 110.8]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.catb.org/~esr/faqs/respond-auto@linuxmafia.com)/S/URI>>/Border[0 0 0]>>endobj91 0 obj<</Rect[10.0 77.0 135.272 92.0]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.catb.org/~esr/faqs/respond-auto@linuxmafia.com)/S/URI>>/Border[0 0 0]>>endobj92 0 obj<</Rect[10.0 58.2 65.216 73.2]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.dtcc.edu/cs/rfc1855.html)/S/URI>>/Border[0 0 0]>>endobj93 0 obj<</Annots 96 0 R/Parent 112 0 R/ID 240 0 R/StructParents 4/Contents 211 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj94 0 obj[10 0 R]endobj95 0 obj<</Rect[549.252 282.938 590.468 297.938]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://groups.google.com/)/S/URI>>/Border[0 0 0]>>endobj96 0 obj[95 0 R 97 0 R]endobj97 0 obj<</Rect[10.0 264.138 48.108 279.138]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://groups.google.com/)/S/URI>>/Border[0 0 0]>>endobj98 0 obj<</Parent 111 0 R/ID 240 0 R/StructParents 5/Contents 212 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R/T1_3 140 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj99 0 obj[10 0 R]endobj100 0 obj<</Parent 111 0 R/ID 240 0 R/StructParents 6/Contents 213 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj101 0 obj[10 0 R]endobj102 0 obj<</Parent 111 0 R/ID 240 0 R/StructParents 7/Contents 214 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R/T1_3 140 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj103 0 obj[10 0 R]endobj104 0 obj<</Parent 111 0 R/ID 240 0 R/StructParents 8/Contents 215 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 116 0 R/T1_3 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj105 0 obj[10 0 R]endobj106 0 obj<</Annots 109 0 R/Parent 111 0 R/ID 240 0 R/StructParents 9/Contents 216 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj107 0 obj[10 0 R]endobj108 0 obj<</Rect[199.182 325.277 340.708 340.277]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://linuxmafia.com/faq/Mail/muas.html)/S/URI>>/Border[0 0 0]>>endobj109 0 obj[108 0 R]endobj110 0 obj<</Annots 120 0 R/Parent 139 0 R/ID 240 0 R/StructParents 10/Contents 217 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R/T1_3 140 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj111 0 obj<</Parent 2 0 R/Count 5/Type/Pages/Kids[98 0 R 100 0 R 102 0 R 104 0 R 106 0 R]>>endobj112 0 obj<</Parent 2 0 R/Count 5/Type/Pages/Kids[11 0 R 21 0 R 59 0 R 86 0 R 93 0 R]>>endobj113 0 obj<</Subtype/Type1/BaseFont/Helvetica-Bold/Encoding/WinAnsiEncoding/Type/Font>>endobj114 0 obj<</Subtype/Type1/BaseFont/Times-Roman/Encoding/WinAnsiEncoding/Type/Font>>endobj115 0 obj<</Subtype/Type1/BaseFont/Courier/Encoding/WinAnsiEncoding/Type/Font>>endobj116 0 obj<</Subtype/Type1/BaseFont/Times-Bold/Encoding/WinAnsiEncoding/Type/Font>>endobj118 0 obj[10 0 R]endobj119 0 obj<</Rect[326.29 297.015 411.83 312.015]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://expita.com/nomime.html)/S/URI>>/Border[0 0 0]>>endobj120 0 obj[119 0 R]endobj121 0 obj<</Annots 125 0 R/Parent 139 0 R/ID 240 0 R/StructParents 11/Contents 218 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 140 0 R/T1_2 127 0 R/T1_3 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj123 0 obj[10 0 R]endobj124 0 obj<</Rect[311.742 63.2308 492.944 78.2308]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)/S/URI>>/Border[0 0 0]>>endobj125 0 obj[124 0 R]endobj126 0 obj<</Annots 131 0 R/Parent 139 0 R/ID 240 0 R/StructParents 12/Contents 219 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj127 0 obj<</Subtype/Type1/BaseFont/Times-Italic/Encoding/WinAnsiEncoding/Type/Font>>endobj129 0 obj[10 0 R]endobj130 0 obj<</Rect[87.0 369.662 142.804 384.662]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#before)/S/URI>>/Border[0 0 0]>>endobj131 0 obj[130 0 R]endobj132 0 obj<</Parent 139 0 R/ID 240 0 R/StructParents 13/Contents 220 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 116 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj134 0 obj[10 0 R]endobj135 0 obj<</Parent 139 0 R/ID 240 0 R/StructParents 14/Contents 221 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 116 0 R/T1_3 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj137 0 obj[10 0 R]endobj138 0 obj<</Parent 158 0 R/ID 240 0 R/StructParents 15/Contents 222 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj139 0 obj<</Parent 2 0 R/Count 5/Type/Pages/Kids[110 0 R 121 0 R 126 0 R 132 0 R 135 0 R]>>endobj140 0 obj<</Subtype/Type1/BaseFont/ZapfDingbats/Type/Font>>endobj142 0 obj[10 0 R]endobj143 0 obj<</Annots 147 0 R/Parent 158 0 R/ID 240 0 R/StructParents 16/Contents 224 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj145 0 obj[10 0 R]endobj146 0 obj<</Rect[465.728 538.815 562.524 553.815]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://homepages.tesco.net/~J.deBoynePollard/FGA/questions-with-yes-or-no-answers.html)/S/URI>>/Border[0 0 0]>>endobj147 0 obj[146 0 R]endobj148 0 obj<</Parent 158 0 R/ID 240 0 R/StructParents 17/Contents 225 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj150 0 obj[10 0 R]endobj151 0 obj<</Parent 158 0 R/ID 240 0 R/StructParents 18/Contents 226 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj153 0 obj[10 0 R]endobj154 0 obj<</Parent 158 0 R/ID 240 0 R/StructParents 19/Contents 227 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj156 0 obj[10 0 R]endobj157 0 obj<</Annots 162 0 R/Parent 190 0 R/ID 240 0 R/StructParents 20/Contents 228 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj158 0 obj<</Parent 2 0 R/Count 5/Type/Pages/Kids[138 0 R 143 0 R 148 0 R 151 0 R 154 0 R]>>endobj160 0 obj[10 0 R]endobj161 0 obj<</Rect[27.5 71.6923 258.794 86.6923]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271865)/S/URI>>/Border[0 0 0]>>endobj162 0 obj[161 0 R 163 0 R]endobj163 0 obj<</Rect[27.5 52.8923 173.296 67.8923]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271889)/S/URI>>/Border[0 0 0]>>endobj164 0 obj<</Annots 168 0 R/Parent 190 0 R/ID 240 0 R/StructParents 21/Contents 229 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 116 0 R/T1_2 140 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj166 0 obj[10 0 R]endobj167 0 obj<</Rect[27.5 749.6 244.458 764.6]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271908)/S/URI>>/Border[0 0 0]>>endobj168 0 obj[167 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R]endobj169 0 obj<</Rect[27.5 730.8 546.172 745.8]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271933)/S/URI>>/Border[0 0 0]>>endobj170 0 obj<</Rect[27.5 712.0 359.202 727.0]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271954)/S/URI>>/Border[0 0 0]>>endobj171 0 obj<</Rect[27.5 693.2 388.546 708.2]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id271991)/S/URI>>/Border[0 0 0]>>endobj172 0 obj<</Rect[27.5 674.4 374.546 689.4]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272017)/S/URI>>/Border[0 0 0]>>endobj173 0 obj<</Rect[27.5 655.6 352.006 670.6]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272037)/S/URI>>/Border[0 0 0]>>endobj174 0 obj<</Rect[27.5 636.8 439.8 651.8]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#id272074)/S/URI>>/Border[0 0 0]>>endobj175 0 obj<</Rect[96.716 558.4 137.932 573.4]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.google.com/)/S/URI>>/Border[0 0 0]>>endobj176 0 obj<</Rect[408.944 406.0 447.066 421.0]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#rtfm)/S/URI>>/Border[0 0 0]>>endobj177 0 obj<</Annots 181 0 R/Parent 190 0 R/ID 240 0 R/StructParents 22/Contents 230 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 116 0 R/T1_2 127 0 R/T1_3 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj179 0 obj[10 0 R]endobj180 0 obj<</Rect[369.66 510.0 393.754 525.0]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.linux.org/groups/index.html)/S/URI>>/Border[0 0 0]>>endobj181 0 obj[180 0 R 182 0 R]endobj182 0 obj<</Rect[202.054 210.738 250.816 225.738]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</D[11 0 R/XYZ 0 792 null]/S/GoTo>>/PA<</URI(http://www.catb.org/~esr/faqs/smart-questions.html#rtfm)/S/URI>>/Border[0 0 0]>>endobj183 0 obj<</Parent 190 0 R/ID 240 0 R/StructParents 23/Contents 231 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 116 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj185 0 obj[10 0 R]endobj186 0 obj<</Parent 190 0 R/ID 240 0 R/StructParents 24/Contents 232 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 113 0 R/T1_2 127 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj188 0 obj[10 0 R]endobj189 0 obj<</Annots 194 0 R/Parent 190 0 R/ID 240 0 R/StructParents 25/Contents 223 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 114 0 R/T1_1 127 0 R/T1_2 113 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj190 0 obj<</Parent 2 0 R/Count 6/Type/Pages/Kids[157 0 R 164 0 R 177 0 R 183 0 R 186 0 R 189 0 R]>>endobj192 0 obj[10 0 R]endobj193 0 obj<</Rect[555.902 332.354 577.672 347.354]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)/S/URI>>/Border[0 0 0]>>endobj194 0 obj[193 0 R 195 0 R 196 0 R 197 0 R]endobj195 0 obj<</Rect[10.0 313.554 246.404 328.554]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)/S/URI>>/Border[0 0 0]>>endobj196 0 obj<</Rect[523.604 275.754 574.144 290.754]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html)/S/URI>>/Border[0 0 0]>>endobj197 0 obj<</Rect[10.0 256.954 157.728 271.954]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html)/S/URI>>/Border[0 0 0]>>endobj207 0 obj<</Length 11706>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [10 162.3692 602 417.1693 ]>>BDC 
+Q
+0.801 0.801 0.801 rg
+10 417.169 m
+602 417.169 l
+601 416.169 l
+11 416.169 l
+h
+f
+10 417.169 m
+10 162.369 l
+11 163.369 l
+11 416.169 l
+h
+f
+0.313 0.313 0.313 rg
+602 417.169 m
+602 162.369 l
+601 163.369 l
+601 416.169 l
+h
+f
+10 162.369 m
+602 162.369 l
+601 163.369 l
+11 163.369 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 393.3692 599 414.1693 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 414.169 m
+599 414.169 l
+598 413.169 l
+14 413.169 l
+h
+f
+13 414.169 m
+13 393.369 l
+14 394.369 l
+14 413.169 l
+h
+f
+0.949 0.945 0.935 rg
+599 414.169 m
+599 393.369 l
+598 394.369 l
+598 413.169 l
+h
+f
+13 393.369 m
+599 393.369 l
+598 394.369 l
+14 394.369 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 370.5692 319.6595 391.3692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 391.369 m
+319.66 391.369 l
+318.66 390.369 l
+14 390.369 l
+h
+f
+13 391.369 m
+13 370.569 l
+14 371.569 l
+14 390.369 l
+h
+f
+0.949 0.945 0.935 rg
+319.66 391.369 m
+319.66 370.569 l
+318.66 371.569 l
+318.66 390.369 l
+h
+f
+13 370.569 m
+319.66 370.569 l
+318.66 371.569 l
+14 371.569 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [321.6595 370.5692 560.3383 391.3692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+321.66 391.369 m
+560.338 391.369 l
+559.338 390.369 l
+322.66 390.369 l
+h
+f
+321.66 391.369 m
+321.66 370.569 l
+322.66 371.569 l
+322.66 390.369 l
+h
+f
+0.949 0.945 0.935 rg
+560.338 391.369 m
+560.338 370.569 l
+559.338 371.569 l
+559.338 390.369 l
+h
+f
+321.66 370.569 m
+560.338 370.569 l
+559.338 371.569 l
+322.66 371.569 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [562.3383 370.5692 599 391.3692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+562.338 391.369 m
+599 391.369 l
+598 390.369 l
+563.338 390.369 l
+h
+f
+562.338 391.369 m
+562.338 370.569 l
+563.338 371.569 l
+563.338 390.369 l
+h
+f
+0.949 0.945 0.935 rg
+599 391.369 m
+599 370.569 l
+598 371.569 l
+598 390.369 l
+h
+f
+562.338 370.569 m
+599 370.569 l
+598 371.569 l
+563.338 371.569 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 347.7692 599 368.5692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 368.569 m
+599 368.569 l
+598 367.569 l
+14 367.569 l
+h
+f
+13 368.569 m
+13 347.769 l
+14 348.769 l
+14 367.569 l
+h
+f
+0.949 0.945 0.935 rg
+599 368.569 m
+599 347.769 l
+598 348.769 l
+598 367.569 l
+h
+f
+13 347.769 m
+599 347.769 l
+598 348.769 l
+14 348.769 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 324.9692 319.6595 345.7692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 345.769 m
+319.66 345.769 l
+318.66 344.769 l
+14 344.769 l
+h
+f
+13 345.769 m
+13 324.969 l
+14 325.969 l
+14 344.769 l
+h
+f
+0.949 0.945 0.935 rg
+319.66 345.769 m
+319.66 324.969 l
+318.66 325.969 l
+318.66 344.769 l
+h
+f
+13 324.969 m
+319.66 324.969 l
+318.66 325.969 l
+14 325.969 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [321.6595 324.9692 560.3383 345.7692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+321.66 345.769 m
+560.338 345.769 l
+559.338 344.769 l
+322.66 344.769 l
+h
+f
+321.66 345.769 m
+321.66 324.969 l
+322.66 325.969 l
+322.66 344.769 l
+h
+f
+0.949 0.945 0.935 rg
+560.338 345.769 m
+560.338 324.969 l
+559.338 325.969 l
+559.338 344.769 l
+h
+f
+321.66 324.969 m
+560.338 324.969 l
+559.338 325.969 l
+322.66 325.969 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [562.3383 324.9692 599 345.7692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+562.338 345.769 m
+599 345.769 l
+598 344.769 l
+563.338 344.769 l
+h
+f
+562.338 345.769 m
+562.338 324.969 l
+563.338 325.969 l
+563.338 344.769 l
+h
+f
+0.949 0.945 0.935 rg
+599 345.769 m
+599 324.969 l
+598 325.969 l
+598 344.769 l
+h
+f
+562.338 324.969 m
+599 324.969 l
+598 325.969 l
+563.338 325.969 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 302.1693 599 322.9692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 322.969 m
+599 322.969 l
+598 321.969 l
+14 321.969 l
+h
+f
+13 322.969 m
+13 302.169 l
+14 303.169 l
+14 321.969 l
+h
+f
+0.949 0.945 0.935 rg
+599 322.969 m
+599 302.169 l
+598 303.169 l
+598 321.969 l
+h
+f
+13 302.169 m
+599 302.169 l
+598 303.169 l
+14 303.169 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 279.3692 319.6595 300.1693 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 300.169 m
+319.66 300.169 l
+318.66 299.169 l
+14 299.169 l
+h
+f
+13 300.169 m
+13 279.369 l
+14 280.369 l
+14 299.169 l
+h
+f
+0.949 0.945 0.935 rg
+319.66 300.169 m
+319.66 279.369 l
+318.66 280.369 l
+318.66 299.169 l
+h
+f
+13 279.369 m
+319.66 279.369 l
+318.66 280.369 l
+14 280.369 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [321.6595 279.3692 560.3383 300.1693 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+321.66 300.169 m
+560.338 300.169 l
+559.338 299.169 l
+322.66 299.169 l
+h
+f
+321.66 300.169 m
+321.66 279.369 l
+322.66 280.369 l
+322.66 299.169 l
+h
+f
+0.949 0.945 0.935 rg
+560.338 300.169 m
+560.338 279.369 l
+559.338 280.369 l
+559.338 299.169 l
+h
+f
+321.66 279.369 m
+560.338 279.369 l
+559.338 280.369 l
+322.66 280.369 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [562.3383 279.3692 599 300.1693 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+562.338 300.169 m
+599 300.169 l
+598 299.169 l
+563.338 299.169 l
+h
+f
+562.338 300.169 m
+562.338 279.369 l
+563.338 280.369 l
+563.338 299.169 l
+h
+f
+0.949 0.945 0.935 rg
+599 300.169 m
+599 279.369 l
+598 280.369 l
+598 299.169 l
+h
+f
+562.338 279.369 m
+599 279.369 l
+598 280.369 l
+563.338 280.369 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 256.5692 599 277.3692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 277.369 m
+599 277.369 l
+598 276.369 l
+14 276.369 l
+h
+f
+13 277.369 m
+13 256.569 l
+14 257.569 l
+14 276.369 l
+h
+f
+0.949 0.945 0.935 rg
+599 277.369 m
+599 256.569 l
+598 257.569 l
+598 276.369 l
+h
+f
+13 256.569 m
+599 256.569 l
+598 257.569 l
+14 257.569 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 233.7692 319.6595 254.5692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 254.569 m
+319.66 254.569 l
+318.66 253.569 l
+14 253.569 l
+h
+f
+13 254.569 m
+13 233.769 l
+14 234.769 l
+14 253.569 l
+h
+f
+0.949 0.945 0.935 rg
+319.66 254.569 m
+319.66 233.769 l
+318.66 234.769 l
+318.66 253.569 l
+h
+f
+13 233.769 m
+319.66 233.769 l
+318.66 234.769 l
+14 234.769 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [321.6595 233.7692 560.3383 254.5692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+321.66 254.569 m
+560.338 254.569 l
+559.338 253.569 l
+322.66 253.569 l
+h
+f
+321.66 254.569 m
+321.66 233.769 l
+322.66 234.769 l
+322.66 253.569 l
+h
+f
+0.949 0.945 0.935 rg
+560.338 254.569 m
+560.338 233.769 l
+559.338 234.769 l
+559.338 253.569 l
+h
+f
+321.66 233.769 m
+560.338 233.769 l
+559.338 234.769 l
+322.66 234.769 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [562.3383 233.7692 599 254.5692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+562.338 254.569 m
+599 254.569 l
+598 253.569 l
+563.338 253.569 l
+h
+f
+562.338 254.569 m
+562.338 233.769 l
+563.338 234.769 l
+563.338 253.569 l
+h
+f
+0.949 0.945 0.935 rg
+599 254.569 m
+599 233.769 l
+598 234.769 l
+598 253.569 l
+h
+f
+562.338 233.769 m
+599 233.769 l
+598 234.769 l
+563.338 234.769 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 210.9692 599 231.7692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 231.769 m
+599 231.769 l
+598 230.769 l
+14 230.769 l
+h
+f
+13 231.769 m
+13 210.969 l
+14 211.969 l
+14 230.769 l
+h
+f
+0.949 0.945 0.935 rg
+599 231.769 m
+599 210.969 l
+598 211.969 l
+598 230.769 l
+h
+f
+13 210.969 m
+599 210.969 l
+598 211.969 l
+14 211.969 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 188.1692 319.6595 208.9692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 208.969 m
+319.66 208.969 l
+318.66 207.969 l
+14 207.969 l
+h
+f
+13 208.969 m
+13 188.169 l
+14 189.169 l
+14 207.969 l
+h
+f
+0.949 0.945 0.935 rg
+319.66 208.969 m
+319.66 188.169 l
+318.66 189.169 l
+318.66 207.969 l
+h
+f
+13 188.169 m
+319.66 188.169 l
+318.66 189.169 l
+14 189.169 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [321.6595 188.1692 560.3383 208.9692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+321.66 208.969 m
+560.338 208.969 l
+559.338 207.969 l
+322.66 207.969 l
+h
+f
+321.66 208.969 m
+321.66 188.169 l
+322.66 189.169 l
+322.66 207.969 l
+h
+f
+0.949 0.945 0.935 rg
+560.338 208.969 m
+560.338 188.169 l
+559.338 189.169 l
+559.338 207.969 l
+h
+f
+321.66 188.169 m
+560.338 188.169 l
+559.338 189.169 l
+322.66 189.169 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [562.3383 188.1692 599 208.9692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+562.338 208.969 m
+599 208.969 l
+598 207.969 l
+563.338 207.969 l
+h
+f
+562.338 208.969 m
+562.338 188.169 l
+563.338 189.169 l
+563.338 207.969 l
+h
+f
+0.949 0.945 0.935 rg
+599 208.969 m
+599 188.169 l
+598 189.169 l
+598 207.969 l
+h
+f
+562.338 188.169 m
+599 188.169 l
+598 189.169 l
+563.338 189.169 l
+h
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [13 165.3692 599 186.1692 ]>>BDC 
+Q
+0.457 0.449 0.431 rg
+13 186.169 m
+599 186.169 l
+598 185.169 l
+14 185.169 l
+h
+f
+13 186.169 m
+13 165.369 l
+14 166.369 l
+14 185.169 l
+h
+f
+0.949 0.945 0.935 rg
+599 186.169 m
+599 165.369 l
+598 166.369 l
+598 185.169 l
+h
+f
+13 165.369 m
+599 165.369 l
+598 166.369 l
+14 166.369 l
+h
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0 rg
+BT
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 730.0149 Tm
+(How To Ask Questions The Smart Way)Tj
+16.1538 0 0 16.1538 10 690.5842 Tm
+(Eric Steven Raymond)Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+10 652.213 m
+121.594 652.213 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 654.3294 Tm
+(Thyrsus Enterprises)Tj
+0 0 0 rg
+( )Tj
+0 -2.6 TD
+( )Tj
+0 -1.105 TD
+(    )Tj
+/T1_2 1 Tf
+(<)Tj
+ET
+0.428 w 
+32.4 601.177 m
+158.4 601.177 l
+S
+0 0 1 rg
+BT
+/T1_2 1 Tf
+14 0 0 14 32.4 602.462 Tm
+(esr@thyrsus.com)Tj
+0 0 0 rg
+(>)Tj
+/T1_0 1 Tf
+( )Tj
+-1.6 -1.338 Td
+(    )Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 545.7996 Tm
+(Rick Moen)Tj
+/T1_0 1 Tf
+14 0 0 14 10 510.9448 Tm
+( )Tj
+T*
+(    )Tj
+/T1_2 1 Tf
+(<)Tj
+ET
+32.4 494.192 m
+259.2 494.192 l
+S
+0 0 1 rg
+BT
+/T1_2 1 Tf
+14 0 0 14 32.4 495.4774 Tm
+(respond-auto@linuxmafia.com)Tj
+0 0 0 rg
+(>)Tj
+/T1_0 1 Tf
+( )Tj
+-1.6 -1.338 Td
+(    )Tj
+0 -2.557 TD
+(Copyright \251 2001,2006 Eric S. Raymond, Rick Moen)Tj
+/T1_3 1 Tf
+0.357 -2.914 Td
+(Revision History)Tj
+/T1_0 1 Tf
+0 -1.629 TD
+(Revision 3.4)Tj
+22.047 0 Td
+(24 Mar 2007)Tj
+17.191 0 Td
+(esr)Tj
+-39.238 -1.629 Td
+(News section, "When asking about code". )Tj
+T*
+(Revision 3.3)Tj
+22.047 0 Td
+(29 Sep 2006)Tj
+17.191 0 Td
+(esr)Tj
+-39.238 -1.629 Td
+(Folded in a good suggestion from Kai Niggemann. )Tj
+T*
+(Revision 3.2)Tj
+22.047 0 Td
+(10 Jan 2006)Tj
+17.191 0 Td
+(esr)Tj
+-39.238 -1.629 Td
+(Folded in edits from Rick Moen. )Tj
+0 -1.629 TD
+(Revision 3.1)Tj
+22.047 0 Td
+(28 Oct 2004)Tj
+17.191 0 Td
+(esr)Tj
+-39.238 -1.629 Td
+(Document 'Google is your friend!' )Tj
+T*
+(Revision 3.0)Tj
+22.047 0 Td
+(2 Feb 2004)Tj
+17.191 0 Td
+(esr)Tj
+-39.238 -1.629 Td
+(Major addition of stuff about proper etiquette on Web forums. )Tj
+ET
+0.5 0.5 0.5 rg
+10 153.369 m
+10 155.369 l
+602 155.369 l
+601 154.369 l
+11 154.369 l
+11 154.369 l
+h
+f
+0.875 0.875 0.875 rg
+602 155.369 m
+602 153.369 l
+10 153.369 l
+11 154.369 l
+601 154.369 l
+601 154.369 l
+h
+f
+0 0 0 rg
+BT
+/T1_3 1 Tf
+14 0 0 14 10 115.3448 Tm
+(Table of Contents)Tj
+ET
+0.706 w 
+10 77.428 m
+79.216 77.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 79.5448 Tm
+(Translations)Tj
+0 0 0 rg
+( )Tj
+ET
+10 58.628 m
+71.432 58.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 60.7448 Tm
+(Disclaimer)Tj
+0 0 0 rg
+( )Tj
+ET
+10 39.828 m
+79.216 39.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 41.9448 Tm
+(Introduction)Tj
+0 0 0 rg
+( )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(1 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj208 0 obj<</Length 5441>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+10 751.028 m
+101.756 751.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.1448 Tm
+(Before You Ask)Tj
+0 0 0 rg
+( )Tj
+ET
+10 732.228 m
+97.094 732.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 734.3448 Tm
+(When You Ask)Tj
+0 0 0 rg
+( )Tj
+ET
+50 713.428 m
+212.134 713.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 715.5448 Tm
+(Choose your forum carefully)Tj
+0 0 0 rg
+( )Tj
+ET
+50 694.628 m
+499.078 694.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 696.7448 Tm
+(Web and IRC forums directed towards newbies often give the quickest resp\onse)Tj
+0 0 0 rg
+( )Tj
+ET
+50 675.828 m
+284.094 675.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 677.9448 Tm
+(As a second step, use project mailing lists)Tj
+0 0 0 rg
+( )Tj
+ET
+50 657.028 m
+278.998 657.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 659.1448 Tm
+(Use meaningful, specific subject headers)Tj
+0 0 0 rg
+( )Tj
+ET
+50 638.228 m
+168.202 638.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 640.3448 Tm
+(Make it easy to reply)Tj
+0 0 0 rg
+( )Tj
+ET
+50 619.428 m
+359.078 619.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 621.5448 Tm
+(Write in clear, grammatical, correctly-spelled language)Tj
+0 0 0 rg
+( )Tj
+ET
+50 600.628 m
+309.742 600.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 602.7448 Tm
+(Send questions in accessible, standard formats)Tj
+0 0 0 rg
+( )Tj
+ET
+50 581.828 m
+315.174 581.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 583.9448 Tm
+(Be precise and informative about your problem)Tj
+0 0 0 rg
+( )Tj
+ET
+50 563.028 m
+184.162 563.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 565.1448 Tm
+(Volume is not precision)Tj
+0 0 0 rg
+( )Tj
+ET
+50 544.228 m
+264.438 544.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 546.3448 Tm
+(Don't claim that you have found a bug)Tj
+0 0 0 rg
+( )Tj
+ET
+50 525.428 m
+359.54 525.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 527.5448 Tm
+(Grovelling is not a substitute for doing your homework)Tj
+0 0 0 rg
+( )Tj
+ET
+50 506.628 m
+339.884 506.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 508.7448 Tm
+(Describe the problem's symptoms, not your guesses)Tj
+0 0 0 rg
+( )Tj
+ET
+50 487.828 m
+376.032 487.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 489.9448 Tm
+(Describe your problem's symptoms in chronological order)Tj
+0 0 0 rg
+( )Tj
+ET
+50 469.028 m
+219.526 469.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 471.1448 Tm
+(Describe the goal, not the step)Tj
+0 0 0 rg
+( )Tj
+ET
+50 450.228 m
+289.316 450.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 452.3448 Tm
+(Don't ask people to reply by private e-mail)Tj
+0 0 0 rg
+( )Tj
+ET
+50 431.428 m
+225.77 431.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 433.5448 Tm
+(Be explicit about your question)Tj
+0 0 0 rg
+( )Tj
+ET
+50 412.628 m
+188.026 412.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 414.7448 Tm
+(When asking about code)Tj
+0 0 0 rg
+( )Tj
+ET
+50 393.828 m
+227.128 393.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 395.9448 Tm
+(Don't post homework questions)Tj
+0 0 0 rg
+( )Tj
+ET
+50 375.028 m
+179.878 375.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 377.1448 Tm
+(Prune pointless queries)Tj
+0 0 0 rg
+( )Tj
+ET
+50 356.228 m
+210.776 356.228 l
+S
+210.776 356.228 m
+249.654 356.228 l
+S
+249.654 356.228 m
+369.802 356.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 358.3448 Tm
+(Don't flag your question as \223Urgent\224, even if it is for you)Tj
+0 0 0 rg
+( )Tj
+ET
+50 337.428 m
+290.31 337.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 339.5448 Tm
+(Courtesy never hurts, and sometimes helps)Tj
+0 0 0 rg
+( )Tj
+ET
+50 318.628 m
+289.554 318.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 320.7448 Tm
+(Follow up with a brief note on the solution)Tj
+ET
+10 299.828 m
+160.458 299.828 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 301.9448 Tm
+(How To Interpret Answers)Tj
+0 0 0 rg
+( )Tj
+ET
+50 281.028 m
+404.438 281.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 283.1448 Tm
+(RTFM and STFW: How To Tell You've Seriously Screwed Up)Tj
+0 0 0 rg
+( )Tj
+ET
+50 262.228 m
+190.168 262.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 264.3448 Tm
+(If you don't understand...)Tj
+0 0 0 rg
+( )Tj
+ET
+50 243.428 m
+175.202 243.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 50 245.5448 Tm
+(Dealing with rudeness)Tj
+ET
+10 224.628 m
+183.026 224.628 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 226.7448 Tm
+(On Not Reacting Like A Loser)Tj
+0 0 0 rg
+( )Tj
+ET
+10 205.828 m
+135.608 205.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 207.9448 Tm
+(Questions Not To Ask)Tj
+0 0 0 rg
+( )Tj
+ET
+10 187.028 m
+150.378 187.028 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 189.1448 Tm
+(Good and Bad Questions)Tj
+0 0 0 rg
+( )Tj
+ET
+10 168.228 m
+170.762 168.228 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 170.3448 Tm
+(If You Can't Get An Answer)Tj
+0 0 0 rg
+( )Tj
+ET
+10 149.428 m
+263.12 149.428 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 151.5448 Tm
+(How To Answer Questions in a Helpful Way)Tj
+0 0 0 rg
+( )Tj
+ET
+10 130.628 m
+113.81 130.628 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 132.7448 Tm
+(Related Resources)Tj
+0 0 0 rg
+( )Tj
+ET
+10 111.828 m
+121.202 111.828 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 113.9448 Tm
+(Acknowledgements)Tj
+0 0 0 rg
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 52.1841 Tm
+(Translations)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(2 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj209 0 obj<</Length 6340>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 744.8833 Tm
+(Translations: )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+86.608 742.766 m
+191.972 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 86.608 744.8833 Tm
+(Bahasa Indonesian)Tj
+0 0 0 rg
+( )Tj
+ET
+195.472 742.766 m
+303.566 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 195.472 744.8833 Tm
+(Brazilo-Portuguese)Tj
+0 0 0 rg
+( )Tj
+ET
+307.066 742.766 m
+352.174 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 307.066 744.8833 Tm
+(Chinese)Tj
+0 0 0 rg
+( )Tj
+ET
+355.674 742.766 m
+390.66 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 355.674 744.8833 Tm
+(Czech)Tj
+0 0 0 rg
+( )Tj
+ET
+394.16 742.766 m
+433.822 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 394.16 744.8833 Tm
+(Danish)Tj
+0 0 0 rg
+( )Tj
+ET
+437.322 742.766 m
+486.322 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 437.322 744.8833 Tm
+(Estonian)Tj
+0 0 0 rg
+( )Tj
+ET
+489.822 742.766 m
+531.836 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 489.822 744.8833 Tm
+(Finnish)Tj
+0 0 0 rg
+( )Tj
+ET
+535.336 742.766 m
+574.214 742.766 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 535.336 744.8833 Tm
+(French)Tj
+0 0 0 rg
+( )Tj
+ET
+10 723.966 m
+62.094 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 726.0833 Tm
+(Georgian)Tj
+0 0 0 rg
+( )Tj
+ET
+65.594 723.966 m
+110.688 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 65.594 726.0833 Tm
+(German)Tj
+0 0 0 rg
+( )Tj
+ET
+114.188 723.966 m
+158.498 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 114.188 726.0833 Tm
+(Hebrew)Tj
+0 0 0 rg
+( )Tj
+ET
+161.998 723.966 m
+221.092 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 161.998 726.0833 Tm
+(Hungarian)Tj
+0 0 0 rg
+( )Tj
+ET
+224.592 723.966 m
+260.362 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 224.592 726.0833 Tm
+(Italian)Tj
+0 0 0 rg
+( )Tj
+ET
+263.862 723.966 m
+313.618 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 263.862 726.0833 Tm
+(Japanese)Tj
+0 0 0 rg
+( )Tj
+ET
+317.118 723.966 m
+352.132 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 317.118 726.0833 Tm
+(Polish)Tj
+0 0 0 rg
+( )Tj
+ET
+355.632 723.966 m
+417.848 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 355.632 726.0833 Tm
+(Portuguese)Tj
+0 0 0 rg
+( )Tj
+ET
+421.348 723.966 m
+478.902 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 421.348 726.0833 Tm
+(Romanian)Tj
+0 0 0 rg
+( )Tj
+ET
+482.402 723.966 m
+526.74 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 482.402 726.0833 Tm
+(Russian)Tj
+0 0 0 rg
+( )Tj
+ET
+530.24 723.966 m
+573.01 723.966 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 530.24 726.0833 Tm
+(Serbian)Tj
+0 0 0 rg
+( )Tj
+ET
+10 705.166 m
+54.338 705.166 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 707.2832 Tm
+(Spanish)Tj
+0 0 0 rg
+( )Tj
+ET
+57.838 705.166 m
+105.284 705.166 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 57.838 707.2832 Tm
+(Swedish)Tj
+0 0 0 rg
+( )Tj
+ET
+108.784 705.166 m
+152.338 705.166 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 108.784 707.2832 Tm
+(Turkish)Tj
+0 0 0 rg
+(. If you want to copy, mirror, translate, or excerpt this document, plea\se see my )Tj
+ET
+10 686.366 m
+93.608 686.366 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 688.4832 Tm
+(copying policy)Tj
+0 0 0 rg
+(.)Tj
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 626.7226 Tm
+(Disclaimer)Tj
+/T1_0 1 Tf
+14 0 0 14 10 589.4217 Tm
+(Many project websites link to this document in their sections on how to \get help. That's fine, it's the use )Tj
+0 -1.2 TD
+(we intended \227 but if you are a webmaster creating such a link for you\r project page, please display )Tj
+T*
+(prominently near the link notice that )Tj
+/T1_2 1 Tf
+(we are not a help desk for your project!)Tj
+/T1_0 1 Tf
+0 -2.557 TD
+(We have learned the hard way that without such a notice, we will repeate\dly be pestered by idiots who )Tj
+0 -1.2 TD
+(think having published this document makes it our job to solve all the w\orld's technical problems.)Tj
+0 -2.557 TD
+(If you're reading this document because you need help, and you walk away\ with the impression you can )Tj
+0 -1.2 TD
+(get it directly from the authors, )Tj
+/T1_2 1 Tf
+(you)Tj
+/T1_0 1 Tf
+( are one of the idiots in question. Don't ask )Tj
+/T1_2 1 Tf
+(us)Tj
+/T1_0 1 Tf
+( questions. We'll just )Tj
+T*
+(ignore you. We are here to show you how to get help from people who actu\ally know about the software )Tj
+T*
+(or hardware you're dealing with, but 99% of the time that will not be us\. Unless you know for )Tj
+/T1_2 1 Tf
+(certain)Tj
+/T1_0 1 Tf
+( )Tj
+T*
+(that one of the authors is an expert on what you're dealing with, leave \us alone and everybody will be )Tj
+T*
+(happier.)Tj
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 323.661 Tm
+(Introduction)Tj
+/T1_0 1 Tf
+14 0 0 14 10 286.3602 Tm
+(In the world of )Tj
+ET
+97.094 284.243 m
+139.85 284.243 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 97.094 286.3602 Tm
+(hackers)Tj
+0 0 0 rg
+(, the kind of answers you get to your technical questions depends as muc\h on the )Tj
+-6.221 -1.343 Td
+(way you ask the questions as on the difficulty of developing the answer.\ This guide will teach you how )Tj
+0 -1.2 TD
+(to ask questions in a way more likely to get you a satisfactory answer.)Tj
+0 -2.557 TD
+(Now that use of open source has become widespread, you can often get as \good answers from other, )Tj
+0 -1.2 TD
+(more experienced users as from hackers. This is a Good Thing; users tend\ to be just a little bit more )Tj
+T*
+(tolerant of the kind of failures newbies often have. Still, treating exp\erienced users like hackers in the )Tj
+0 -1.2 TD
+(ways we recommend here will generally be the most effective way to get u\seful answers out of them, too.)Tj
+0 -2.557 TD
+(The first thing to understand is that hackers actually like hard problem\s and good, thought-provoking )Tj
+0 -1.2 TD
+(questions about them. If we didn't, we wouldn't be here. If you give us \an interesting question to chew )Tj
+T*
+(on we'll be grateful to you; good questions are a stimulus and a gift. G\ood questions help us develop our )Tj
+T*
+(understanding, and often reveal problems we might not have noticed or th\ought about otherwise. Among )Tj
+0 -1.2 TD
+(hackers, \223Good question!\224 is a strong and sincere compliment.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(3 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj210 0 obj<</Length 4536>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(Despite this, hackers have a reputation for meeting simple questions wit\h what looks like hostility or )Tj
+0 -1.2 TD
+(arrogance. It sometimes looks like we're reflexively rude to newbies and\ the ignorant. But this isn't )Tj
+T*
+(really true.)Tj
+0 -2.557 TD
+(What we are, unapologetically, is hostile to people who seem to be unwil\ling to think or to do their own )Tj
+0 -1.2 TD
+(homework before asking questions. People like that are time sinks \227 t\hey take without giving back, and )Tj
+T*
+(they waste time we could have spent on another question more interesting\ and another person more )Tj
+T*
+(worthy of an answer. We call people like this \223losers\224 \(and for h\istorical reasons we sometimes spell it )Tj
+0 -1.2 TD
+(\223lusers\224\).)Tj
+0 -2.557 TD
+(We realize that there are many people who just want to use the software \we write, and who have no )Tj
+0 -1.2 TD
+(interest in learning technical details. For most people, a computer is m\erely a tool, a means to an end; )Tj
+T*
+(they have more important things to do and lives to live. We acknowledge \that, and don't expect everyone )Tj
+T*
+(to take an interest in the technical matters that fascinate us. Neverthe\less, our style of answering )Tj
+T*
+(questions is tuned for people who )Tj
+/T1_1 1 Tf
+(do)Tj
+/T1_0 1 Tf
+( take such an interest and are willing to be active participants in )Tj
+T*
+(problem-solving. That's not going to change. Nor should it; if it did, w\e would become less effective at )Tj
+T*
+(the things we do best.)Tj
+0 -2.557 TD
+(We're \(largely\) volunteers. We take time out of busy lives to answer q\uestions, and at times we're )Tj
+0 -1.2 TD
+(overwhelmed with them. So we filter ruthlessly. In particular, we throw \away questions from people )Tj
+T*
+(who appear to be losers in order to spend our question-answering time mo\re efficiently, on winners.)Tj
+0 -2.557 TD
+(If you find this attitude obnoxious, condescending, or arrogant, check y\our assumptions. We're not )Tj
+0 -1.2 TD
+(asking you to genuflect to us \227 in fact, most of us would love nothin\g more than to deal with you as an )Tj
+T*
+(equal and welcome you into our culture, if you put in the effort require\d to make that possible. But it's )Tj
+T*
+(simply not efficient for us to try to help people who are not willing to\ help themselves. It's OK to be )Tj
+T*
+(ignorant; it's not OK to play stupid.)Tj
+0 -2.557 TD
+(So, while it isn't necessary to already be technically competent to get \attention from us, it )Tj
+/T1_1 1 Tf
+(is)Tj
+/T1_0 1 Tf
+( necessary to )Tj
+0 -1.2 TD
+(demonstrate the kind of attitude that leads to competence \227 alert, th\oughtful, observant, willing to be an )Tj
+T*
+(active partner in developing a solution. If you can't live with this sor\t of discrimination, we suggest you )Tj
+T*
+(pay somebody for a commercial support contract instead of asking hackers\ to personally donate help to )Tj
+T*
+(you.)Tj
+0 -2.557 TD
+(If you decide to come to us for help, you don't want to be one of the lo\sers. You don't want to seem like )Tj
+0 -1.2 TD
+(one, either. The best way to get a rapid and responsive answer is to ask\ it like a person with smarts, )Tj
+T*
+(confidence, and clues who just happens to need help on one particular pr\oblem.)Tj
+0 -2.557 TD
+(\(Improvements to this guide are welcome. You can mail suggestions to )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+412.066 98.059 m
+509.338 98.059 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 412.066 100.1756 Tm
+(esr@thyrsus.com)Tj
+0 0 0 rg
+( or )Tj
+ET
+528 98.059 m
+576.986 98.059 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 528 100.1756 Tm
+(respond-)Tj
+ET
+10 79.259 m
+135.272 79.259 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 81.3755 Tm
+(auto@linuxmafia.com)Tj
+0 0 0 rg
+(. Note however that this document is not intended to be a general guide \to )Tj
+ET
+10 60.459 m
+65.216 60.459 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 62.5756 Tm
+(netiquette)Tj
+0 0 0 rg
+(, and we will generally reject suggestions that are not specifically rel\ated to eliciting useful )Tj
+0 -1.343 TD
+(answers in a technical forum.\))Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(4 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj211 0 obj<</Length 3253>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 714.0149 Tm
+(Before You Ask)Tj
+/T1_0 1 Tf
+14 0 0 14 10 676.714 Tm
+(Before asking a technical question by e-mail, or in a newsgroup, or on a\ website chat board, do the )Tj
+0 -1.2 TD
+(following:)Tj
+1.607 -2.557 Td
+(1.  Try to find an answer by searching the archives of the forum you pla\n to post to.)Tj
+0 -2.557 TD
+(2.  Try to find an answer by searching the Web.)Tj
+T*
+(3.  Try to find an answer by reading the manual.)Tj
+T*
+(4.  Try to find an answer by reading a FAQ.)Tj
+T*
+(5.  Try to find an answer by inspection or experimentation.)Tj
+T*
+(6.  Try to find an answer by asking a skilled friend.)Tj
+0 -2.557 TD
+(7.  If you're a programmer, try to find an answer by reading the source \code.)Tj
+-1.607 -2.557 Td
+(When you ask your question, display the fact that you have done these th\ings first; this will help )Tj
+0 -1.2 TD
+(establish that you're not being a lazy sponge and wasting people's time.\ Better yet, display what you )Tj
+T*
+(have )Tj
+/T1_2 1 Tf
+(learned)Tj
+/T1_0 1 Tf
+( from doing these things. We like answering questions for people who hav\e demonstrated )Tj
+T*
+(they can learn from the answers.)Tj
+0 -2.557 TD
+(Use tactics like doing a Google search on the text of whatever error mes\sage you get \(searching )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+549.252 285.197 m
+593.968 285.197 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 549.252 287.314 Tm
+(Google )Tj
+ET
+10 266.397 m
+48.108 266.397 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 268.514 Tm
+(groups)Tj
+0 0 0 rg
+( as well as Web pages\). This might well take you straight to fix docume\ntation or a mailing list )Tj
+0 -1.343 TD
+(thread answering your question. Even if it doesn't, saying \223I googled\ on the following phrase but didn't )Tj
+0 -1.2 TD
+(get anything that looked promising\224 is a good thing to do in e-mail o\r news postings requesting help, if )Tj
+T*
+(only because it records what searches won't help.)Tj
+0 -2.557 TD
+(Take your time. Do not expect to be able to solve a complicated problem \with a few seconds of )Tj
+0 -1.2 TD
+(Googling. Read and understand the FAQs, sit back, relax and give the pro\blem some thought before )Tj
+T*
+(approaching experts. Trust us, they will be able to tell from your quest\ions how much reading and )Tj
+0 -1.2 TD
+(thinking you did, and will be more willing to help if you come prepared.\ Don't instantly fire your whole )Tj
+T*
+(arsenal of questions just because your first search turned up no answers\ \(or too many\).)Tj
+0 -2.557 TD
+(Prepare your question. Think it through. Hasty-sounding questions get ha\sty answers, or none at all. The )Tj
+0 -1.2 TD
+(more you do to demonstrate that having put thought and effort into solvi\ng your problem before seeking )Tj
+T*
+(help, the more likely you are to actually get help.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(5 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj212 0 obj<</Length 3579>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 737.914 Tm
+(Beware of asking the wrong question. If you ask one that is based on fau\lty assumptions, J. Random )Tj
+0 -1.2 TD
+(Hacker is quite likely to reply with a uselessly literal answer while th\inking \223Stupid question...\224, and )Tj
+T*
+(hoping the experience of getting what you asked for rather than what you\ needed will teach you a lesson.)Tj
+0 -2.557 TD
+(Never assume you are )Tj
+/T1_1 1 Tf
+(entitled)Tj
+/T1_0 1 Tf
+( to an answer. You are not; you aren't, after all, paying for the servic\e. )Tj
+0 -1.2 TD
+(You will earn an answer, if you earn it, by asking a substantial, intere\sting, and thought-provoking )Tj
+T*
+(question \227 one that implicitly contributes to the experience of the c\ommunity rather than merely )Tj
+T*
+(passively demanding knowledge from others.)Tj
+0 -2.557 TD
+(On the other hand, making it clear that you are able and willing to help\ in the process of developing the )Tj
+0 -1.2 TD
+(solution is a very good start. \223Would someone provide a pointer?\224,\ \223What is my example missing?\224, and )Tj
+T*
+(\223What site should I have checked?\224 are more likely to get answered\ than \223Please post the exact )Tj
+T*
+(procedure I should use.\224 because you're making it clear that you're t\ruly willing to complete the process )Tj
+T*
+(if someone can just point you in the right direction.)Tj
+/T1_2 1 Tf
+19.3846 0 0 19.3846 10 455.3533 Tm
+(When You Ask)Tj
+16.1538 0 0 16.1538 10 415.9227 Tm
+(Choose your forum carefully)Tj
+/T1_0 1 Tf
+14 0 0 14 10 379.6679 Tm
+(Be sensitive in choosing where you ask your question. You are likely to \be ignored, or written off as a )Tj
+0 -1.2 TD
+(loser, if you:)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 327.0679 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 327.0679 Tm
+(post your question to a forum where it's off topic)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 291.2679 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 291.2679 Tm
+(post a very elementary question to a forum where advanced technical ques\tions are expected, or )Tj
+T*
+(vice-versa)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 238.6679 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 238.6679 Tm
+(cross-post to too many different newsgroups)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 202.8679 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 202.8679 Tm
+(post a personal e-mail to somebody who is neither an acquaintance of you\rs nor personally )Tj
+T*
+(responsible for solving your problem)Tj
+-2.857 -2.557 Td
+(Hackers blow off questions that are inappropriately targeted in order to\ try to protect their )Tj
+0 -1.2 TD
+(communications channels from being drowned in irrelevance. You don't wan\t this to happen to you.)Tj
+0 -2.557 TD
+(The first step, therefore, is to find the right forum. Again, Google and\ other Web-searching methods are )Tj
+0 -1.2 TD
+(your friend. Use them to find the project webpage most closely associate\d with the hardware or software )Tj
+T*
+(giving you difficulties. Usually it will have links to a FAQ \(Frequentl\y Asked Questions\) list, and to )Tj
+T*
+(project mailing lists and their archives. These mailing lists are the fi\nal places to go for help, if your own )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(6 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj213 0 obj<</Length 3933>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(efforts \(including )Tj
+/T1_1 1 Tf
+(reading)Tj
+/T1_0 1 Tf
+( those FAQs you found\) do not find you a solution. The project page may\ also )Tj
+0 -1.2 TD
+(describe a bug-reporting procedure, or have a link to one; if so, follow\ it.)Tj
+0 -2.557 TD
+(Shooting off an e-mail to a person or forum which you are not familiar w\ith is risky at best. For )Tj
+0 -1.2 TD
+(example, do not assume that the author of an informative webpage wants t\o be your free consultant. Do )Tj
+T*
+(not make optimistic guesses about whether your question will be welcome \\227 if you're unsure, send it )Tj
+T*
+(elsewhere, or refrain from sending it at all.)Tj
+0 -2.557 TD
+(When selecting a Web forum, newsgroup or mailing list, don't trust the n\ame by itself too far; look for a )Tj
+0 -1.2 TD
+(FAQ or charter to verify your question is on-topic. Read some of the bac\k traffic before posting so you'll )Tj
+T*
+(get a feel for how things are done there. In fact, it's a very good idea\ to do a keyword search for words )Tj
+T*
+(relating to your problem on the newsgroup or mailing list archives befor\e you post. It may find you an )Tj
+T*
+(answer, and if not it will help you formulate a better question.)Tj
+0 -2.557 TD
+(Don't shotgun-blast all the available help channels at once, that's like\ yelling and irritates people. Step )Tj
+0 -1.2 TD
+(through them.)Tj
+0 -2.557 TD
+(Know what your topic is! One of the classic mistakes is asking questions\ about the Unix or Windows )Tj
+0 -1.2 TD
+(programming interface in a forum devoted to a language or library or too\l portable across both. If you )Tj
+T*
+(don't understand why this is a blunder, you'd be best off not asking any\ questions at all until you get it.)Tj
+0 -2.557 TD
+(In general, questions to a well-selected public forum are more likely to\ get useful answers than )Tj
+0 -1.2 TD
+(equivalent questions to a private one. There are multiple reasons for th\is. One is simply the size of the )Tj
+T*
+(pool of potential respondents. Another is the size of the audience; hack\ers would rather answer questions )Tj
+T*
+(that educate many people than questions serving only a few.)Tj
+0 -2.557 TD
+(Understandably, skilled hackers and authors of popular software are alre\ady receiving more than their )Tj
+0 -1.2 TD
+(fair share of mis-targeted messages. By adding to the flood, you could i\n extreme cases even be the )Tj
+T*
+(straw that breaks the camel's back \227 quite a few times, contributors \to popular projects have withdrawn )Tj
+T*
+(their support because collateral damage in the form of useless e-mail tr\affic to their personal accounts )Tj
+T*
+(became unbearable.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 198.8457 Tm
+(Web and IRC forums directed towards newbies often give the quickest )Tj
+0 -1.2 TD
+(response)Tj
+/T1_0 1 Tf
+14 0 0 14 10 143.2063 Tm
+(Your local user group, or your Linux distribution, may advertise a Web f\orum or IRC channel where )Tj
+T*
+(newbies can get help. \(In non-English-speaking countries newbie forums \are still more likely to be )Tj
+T*
+(mailing lists.\) These are good first places to ask, especially if you t\hink you may have tripped over a )Tj
+0 -1.2 TD
+(relatively simple or common problem. An advertised IRC channel is an ope\n invitation to ask questions )Tj
+0 -1.2 TD
+(there and often get answers in real time.)Tj
+0 -2.557 TD
+(In fact, if you got the program that is giving you problems from a Linux\ distribution \(as common today\), )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(7 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj214 0 obj<</Length 4017>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.4063 Tm
+(it may be better to ask in the distro's forum/list before trying the pro\gram's project forum/list. The )Tj
+0 -1.2 TD
+(project's hackers may just say, \223use )Tj
+/T1_1 1 Tf
+(our)Tj
+/T1_0 1 Tf
+( build\224.)Tj
+0 -2.557 TD
+(Before posting to any Web forum, check if it has a Search feature. If it\ does, try a couple of keyword )Tj
+0 -1.2 TD
+(searches for something like your problem; it just might help. If you did\ a general Web search before \(as )Tj
+T*
+(you should have\), search the forum anyway; your Web-wide search engine \might not have all of this )Tj
+T*
+(forum indexed recently.)Tj
+0 -2.557 TD
+(There is an increasing tendency for projects to do user support over a W\eb forum or IRC channel, with e-)Tj
+0 -1.2 TD
+(mail reserved more for development traffic. So look for those channels f\irst when seeking project-)Tj
+T*
+(specific help.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 543.0765 Tm
+(As a second step, use project mailing lists)Tj
+/T1_0 1 Tf
+14 0 0 14 10 506.8217 Tm
+(When a project has a development mailing list, write to the mailing list\, not to individual developers, )Tj
+0 -1.2 TD
+(even if you believe you know who can best answer your question. Check th\e documentation of the )Tj
+T*
+(project and its homepage for the address of a project mailing list, and \use it. There are several good )Tj
+0 -1.2 TD
+(reasons for this policy:)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 420.6217 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 420.6217 Tm
+(Any question good enough to be asked of one developer will also be of va\lue to the whole group. )Tj
+0 -1.2 TD
+(Contrariwise, if you suspect your question is too dumb for a mailing lis\t, it's not an excuse to )Tj
+T*
+(harass individual developers.)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 351.2217 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 351.2217 Tm
+(Asking questions on the list distributes load among developers. The indi\vidual developer )Tj
+T*
+(\(especially if he's the project leader\) may be too busy to answer your\ questions.)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 298.6217 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 298.6217 Tm
+(Most mailing lists are archived and the archives are indexed by search e\ngines. If you ask your )Tj
+T*
+(question on-list and it is answered, a future querent could find your qu\estion and the answer on )Tj
+T*
+(the Web instead of asking it again.)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 229.2217 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 229.2217 Tm
+(If certain questions are seen to be asked often, developers can use that\ information to improve the )Tj
+T*
+(documentation or the software itself to be less confusing. But if those \questions are asked in )Tj
+T*
+(private, nobody has the complete picture of what questions are asked mos\t often.)Tj
+-2.857 -2.557 Td
+(If a project has both a \223user\224 and a \223developer\224 \(or \223ha\cker\224\) mailing list or Web forum, and you are not )Tj
+0 -1.2 TD
+(hacking on the code, ask in the \223user\224 list/forum. Do not assume t\hat you will be welcome on the )Tj
+T*
+(developer list, where they're likely to experience your question as nois\e disrupting their developer traffic.)Tj
+0 -2.557 TD
+(However, if you are )Tj
+/T1_1 1 Tf
+(sure)Tj
+/T1_0 1 Tf
+( your question is non-trivial, and you get no answer in the \223user\224\ list/forum for )Tj
+0 -1.2 TD
+(several days, try the \223developer\224 one. You would be well advised t\o lurk there for a few days before )Tj
+T*
+(posting to learn the local folkways \(actually this is good advice on an\y private or semi-private list\).)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(8 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj215 0 obj<</Length 3500>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 751.0217 Tm
+(If you cannot find a project's mailing list address, but only see the ad\dress of the maintainer of the )Tj
+0 -1.2 TD
+(project, go ahead and write to the maintainer. But even in that case, do\n't assume that the mailing list )Tj
+T*
+(doesn't exist. Mention in your e-mail that you tried and could not find \the appropriate mailing list. Also )Tj
+0 -1.2 TD
+(mention that you don't object to having your message forwarded to other \people. \(Many people believe )Tj
+0 -1.2 TD
+(that private e-mail should remain private, even if there is nothing secr\et in it. By allowing your message )Tj
+T*
+(to be forwarded you give your correspondent a choice about how to handle\ your e-mail.\))Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 629.0919 Tm
+(Use meaningful, specific subject headers)Tj
+/T1_0 1 Tf
+14 0 0 14 10 592.8371 Tm
+(On mailing lists, newsgroups or Web forums, the subject header is your g\olden opportunity to attract )Tj
+0 -1.2 TD
+(qualified experts' attention in around 50 characters or fewer. Don't was\te it on babble like \223Please help )Tj
+T*
+(me\224 \(let alone \223PLEASE HELP ME!!!!\224; messages with subjects li\ke that get discarded by reflex\). Don't )Tj
+0 -1.2 TD
+(try to impress us with the depth of your anguish; use the space for a su\per-concise problem description )Tj
+0 -1.2 TD
+(instead.)Tj
+0 -2.557 TD
+(One good convention for subject headers, used by many tech support organ\izations, is \223object - )Tj
+0 -1.2 TD
+(deviation\224. The \223object\224 part specifies what thing or group of \things is having a problem, and the )Tj
+T*
+(\223deviation\224 part describes the deviation from expected behavior.)Tj
+/T1_2 1 Tf
+0 -2.557 TD
+(Stupid:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(HELP! Video doesn't work properly on my laptop!)Tj
+/T1_2 1 Tf
+-2.857 -2.557 Td
+(Smart:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(X.org 6.8.1 misshapen mouse cursor, Fooware MV1005 vid. chipset)Tj
+/T1_2 1 Tf
+-2.857 -2.557 Td
+(Smarter:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(X.org 6.8.1 mouse cursor on Fooware MV1005 vid. chipset - is misshapen)Tj
+-2.857 -2.557 Td
+(The process of writing an \223object-deviation\224 description will help\ you organize your thinking about the )Tj
+0 -1.2 TD
+(problem in more detail. What is affected? Just the mouse cursor or other\ graphics too? Is this specific to )Tj
+T*
+(the X.org version of X? To version 6.8.1? Is this specific to Fooware vi\deo chipsets? To model )Tj
+T*
+(MV1005? A hacker who sees the result can immediately understand what it \is that you are having a )Tj
+T*
+(problem with )Tj
+/T1_3 1 Tf
+(and)Tj
+/T1_0 1 Tf
+( the problem you are having, at a glance.)Tj
+0 -2.557 TD
+(More generally, imagine looking at the index of an archive of questions,\ with just the subject lines )Tj
+0 -1.2 TD
+(showing. Make your subject line reflect your question well enough that t\he next guy searching the )Tj
+T*
+(archive with a question similar to yours will be able to follow the thre\ad to an answer rather than posting )Tj
+T*
+(the question again.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(9 of 26\)9/18/2007 \2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj216 0 obj<</Length 4219>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 746.4371 Tm
+(If you ask a question in a reply, be sure to change the subject line to \indicate that you're asking a )Tj
+0 -1.2 TD
+(question. A Subject line that looks like \223Re: test\224 or \223Re: new\ bug\224 is less likely to attract useful )Tj
+T*
+(amounts of attention. Also, pare quotation of previous messages to the m\inimum consistent with cluing )Tj
+0 -1.2 TD
+(in new readers.)Tj
+0 -2.557 TD
+(Do not simply hit reply to a list message in order to start an entirely \new thread. This will limit your )Tj
+0 -1.2 TD
+(audience. Some mail readers, like mutt, allow the user to sort by thread\ and then hide messages in a )Tj
+T*
+(thread by folding the thread. Folks who do that will never see your mess\age.)Tj
+0 -2.557 TD
+(Changing the subject is not sufficient. Mutt, and probably other mail re\aders, looks at other information )Tj
+0 -1.2 TD
+(in the e-mail's headers to assign it to a thread, not the subject line. \Instead start an entirely new e-mail.)Tj
+0 -2.557 TD
+(On Web forums the rules of good practice are slightly different, because\ messages are usually much )Tj
+0 -1.2 TD
+(more tightly bound to specific discussion threads and often invisible ou\tside those threads. Changing the )Tj
+0 -1.2 TD
+(subject when asking a question in reply is not essential. Not all forums\ even allow separate subject lines )Tj
+T*
+(on replies, and nearly nobody reads them when they do. However, asking a\ question in a reply is a )Tj
+T*
+(dubious practice in itself, because it will only be seen by those who ar\e watching this thread. So, unless )Tj
+T*
+(you are sure you )Tj
+/T1_1 1 Tf
+(want)Tj
+/T1_0 1 Tf
+( to ask only the people currently active in the thread, start a new one.\)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 416.3073 Tm
+(Make it easy to reply)Tj
+/T1_0 1 Tf
+14 0 0 14 10 380.0525 Tm
+(Finishing your query with \223Please send your reply to... \224 makes it\ quite unlikely you will get an answer. )Tj
+0 -1.2 TD
+(If you can't be bothered to take even the few seconds required to set up\ a correct Reply-To header in )Tj
+T*
+(your mail agent, we can't be bothered to take even a few seconds to thin\k about your problem. If your )Tj
+0 -1.2 TD
+(mail program doesn't permit this, )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+199.182 327.536 m
+340.708 327.536 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 199.182 329.6525 Tm
+(get a better mail program)Tj
+0 0 0 rg
+(. If your operating system doesn't support any )Tj
+-13.513 -1.343 Td
+(e-mail programs that permit this, get a better operating system.)Tj
+0 -2.557 TD
+(In Web forums, asking for a reply by e-mail is outright rude, unless you\ believe the information may be )Tj
+0 -1.2 TD
+(sensitive \(and somebody will, for some unknown reason, let you but not \the whole forum know it\). If )Tj
+0 -1.2 TD
+(you want an e-mail copy when somebody replies in the thread, request tha\t the Web forum send it; this )Tj
+T*
+(feature is supported almost everywhere under options like \223watch this\ thread\224, \223send e-mail on )Tj
+0 -1.2 TD
+(answers\224, etc.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 169.9227 Tm
+(Write in clear, grammatical, correctly-spelled language)Tj
+/T1_0 1 Tf
+14 0 0 14 10 133.6679 Tm
+(We've found by experience that people who are careless and sloppy writer\s are usually also careless and )Tj
+0 -1.2 TD
+(sloppy at thinking and coding \(often enough to bet on, anyway\). Answer\ing questions for careless and )Tj
+T*
+(sloppy thinkers is not rewarding; we'd rather spend our time elsewhere.)Tj
+0 -2.557 TD
+(So expressing your question clearly and well is important. If you can't \be bothered to do that, we can't be )Tj
+0 -1.2 TD
+(bothered to pay attention. Spend the extra effort to polish your languag\e. It doesn't have to be stiff or )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(10 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj217 0 obj<</Length 4167>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(formal \227 in fact, hacker culture values informal, slangy and humorous\ language used with precision. )Tj
+0 -1.2 TD
+(But it has to )Tj
+/T1_1 1 Tf
+(be)Tj
+/T1_0 1 Tf
+( precise; there has to be some indication that you're thinking and payin\g attention.)Tj
+0 -2.557 TD
+(Spell, punctuate, and capitalize correctly. Don't confuse \223its\224 wi\th \223it's\224, \223loose\224 with \223lose\224, or )Tj
+0 -1.2 TD
+(\223discrete\224 with \223discreet\224. Don't TYPE IN ALL CAPS; this is \read as shouting and considered rude. )Tj
+T*
+(\(All-smalls is only slightly less annoying, as it's difficult to read. \Alan Cox can get away with it, but you )Tj
+T*
+(can't.\))Tj
+0 -2.557 TD
+(More generally, if you write like a semi-literate boob you will very lik\ely be ignored. So don't use )Tj
+0 -1.2 TD
+(instant-messaging shortcuts. Spelling "you" as "u" makes you look like a\n semi-literate boob to save two )Tj
+T*
+(entire keystrokes. Worse: writing like a l33t script kiddie hax0r is the\ absolute kiss of death and )Tj
+T*
+(guarantees you will receive nothing but stony silence \(or, at best, a h\eaping helping of scorn and )Tj
+T*
+(sarcasm\) in return.)Tj
+0 -2.557 TD
+(If you are asking questions in a forum that does not use your native lan\guage, you will get a limited )Tj
+0 -1.2 TD
+(amount of slack for spelling and grammar errors \227 but no extra slack \at all for laziness \(and yes, we can )Tj
+T*
+(usually spot that difference\). Also, unless you know what your responde\nt's languages are, write in )Tj
+T*
+(English. Busy hackers tend to simply flush questions in languages they d\on't understand, and English is )Tj
+T*
+(the working language of the Internet. By writing in English you minimize\ your chances that your )Tj
+T*
+(question will be discarded unread.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 390.2457 Tm
+(Send questions in accessible, standard formats)Tj
+/T1_0 1 Tf
+14 0 0 14 10 353.9909 Tm
+(If you make your question artificially hard to read, it is more likely t\o be passed over in favor of one that )Tj
+0 -1.2 TD
+(isn't. So:)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 301.3909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 301.3909 Tm
+(Send plain text mail, not HTML. \(It's not hard to )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+326.29 299.274 m
+411.83 299.274 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 326.29 301.3909 Tm
+(turn off HTML)Tj
+0 0 0 rg
+(.\))Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 263.5909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 263.5909 Tm
+(MIME attachments are usually OK, but only if they are real content \(suc\h as an attached source )Tj
+T*
+(file or patch\), and not merely boilerplate generated by your mail clien\t \(such as another copy of )Tj
+T*
+(your message\).)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 194.1909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 194.1909 Tm
+(Don't send e-mail in which entire paragraphs are single multiply-wrapped\ lines. \(This makes it )Tj
+T*
+(too difficult to reply to just part of the message.\) Assume that your r\espondents will be reading )Tj
+T*
+(mail on 80-character-wide text displays and set your line wrap according\ly, to something less )Tj
+0 -1.2 TD
+(than 80.)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 107.9909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 107.9909 Tm
+(However, do )Tj
+/T1_1 1 Tf
+(not)Tj
+/T1_0 1 Tf
+( wrap data \(such as log file dumps or session transcripts\) at any fixe\d column )Tj
+0 -1.2 TD
+(width. Data should be included as-is, so respondents can have confidence\ that they are seeing )Tj
+T*
+(what you saw.)Tj
+/T1_3 1 Tf
+7 0 0 7 35.713 38.5909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 38.5909 Tm
+(Don't send MIME Quoted-Printable encoding to an English-language forum. \This encoding can )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(11 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj218 0 obj<</Length 4112>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 50 751.7909 Tm
+(be necessary when you're posting in a language ASCII doesn't cover, but \many e-mail agents )Tj
+0 -1.2 TD
+(don't support it. When they break, all those =20 glyphs scattered throug\h the text are ugly and )Tj
+T*
+(distracting \227 or may actively sabotage the semantics of your text.)Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 682.3909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 682.3909 Tm
+(Never, )Tj
+/T1_2 1 Tf
+(ever)Tj
+/T1_0 1 Tf
+( expect hackers to be able to read closed proprietary document formats l\ike Microsoft )Tj
+T*
+(Word or Excel. Most hackers react to these about as well as you would to\ having a pile of )Tj
+T*
+(steaming pig manure dumped on your doorstep. Even when they can cope, th\ey resent having to )Tj
+0 -1.2 TD
+(do so.)Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 596.1909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 596.1909 Tm
+(If you're sending e-mail from a Windows machine, turn off Microsoft's st\upid \223Smart Quotes\224 )Tj
+0 -1.2 TD
+(feature. This is so you'll avoid sprinkling garbage characters through y\our mail. )Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 543.5909 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 543.5909 Tm
+(In Web forums, do not abuse \223smiley\224 and \223HTML\224 features \(w\hen they are present\). A smiley )Tj
+T*
+(or two is usually OK, but colored fancy text tends to make people think \you are lame. Seriously )Tj
+T*
+(overusing smileys and color and fonts will make you come off like a gigg\ly teenage girl, which is )Tj
+0 -1.2 TD
+(not generally a good idea unless you are more interested in sex than ans\wers.)Tj
+-2.857 -2.557 Td
+(If you're using a graphical-user-interface mail client such as Netscape \Messenger, MS Outlook, or their )Tj
+0 -1.2 TD
+(ilk, beware that it may violate these rules when used with its default s\ettings. Most such clients have a )Tj
+T*
+(menu-based \223View Source\224 command. Use this on something in your se\nt-mail folder, verifying sending )Tj
+0 -1.2 TD
+(of plain text without unnecessary attached crud.)Tj
+/T1_3 1 Tf
+16.1538 0 0 16.1538 10 369.0611 Tm
+(Be precise and informative about your problem)Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 332.8063 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 332.8063 Tm
+(Describe the symptoms of your problem or bug carefully and clearly. )Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 297.0063 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 297.0063 Tm
+(Describe the environment in which it occurs \(machine, OS, application, \whatever\). Provide your )Tj
+0 -1.2 TD
+(vendor's distribution and release level \(e.g.: \223Fedora Core 4\224, \223\Slackware 9.1\224, etc.\). )Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 244.4063 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 244.4063 Tm
+(Describe the research you did to try and understand the problem before y\ou asked the question. )Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 208.6063 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 208.6063 Tm
+(Describe the diagnostic steps you took to try and pin down the problem y\ourself before you asked )Tj
+T*
+(the question. )Tj
+/T1_1 1 Tf
+7 0 0 7 35.713 156.0063 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 50 156.0063 Tm
+(Describe any possibly relevant recent changes in your computer or softwa\re configuration. )Tj
+-2.857 -2.557 Td
+(Do the best you can to anticipate the questions a hacker will ask, and a\nswer them in advance in your )Tj
+0 -1.2 TD
+(request for help.)Tj
+0 -2.557 TD
+(Simon Tatham has written an excellent essay entitled )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+311.742 65.49 m
+492.944 65.49 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 311.742 67.6063 Tm
+(How to Report Bugs Effectively)Tj
+0 0 0 rg
+(. I strongly )Tj
+-21.553 -1.343 Td
+(recommend that you read it.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(12 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj219 0 obj<</Length 4026>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 740.8765 Tm
+(Volume is not precision)Tj
+/T1_0 1 Tf
+14 0 0 14 10 704.6217 Tm
+(You need to be precise and informative. This end is not served by simply\ dumping huge volumes of )Tj
+0 -1.2 TD
+(code or data into a help request. If you have a large, complicated test \case that is breaking a program, try )Tj
+T*
+(to trim it and make it as small as possible.)Tj
+0 -2.557 TD
+(This is useful for at least three reasons. One: being seen to invest eff\ort in simplifying the question )Tj
+0 -1.2 TD
+(makes it more likely you'll get an answer, Two: simplifying the question\ makes it more likely you'll get )Tj
+T*
+(a )Tj
+/T1_2 1 Tf
+(useful)Tj
+/T1_0 1 Tf
+( answer. Three: In the process of refining your bug report, you may deve\lop a fix or workaround )Tj
+T*
+(yourself.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 546.8919 Tm
+(Don't claim that you have found a bug)Tj
+/T1_0 1 Tf
+14 0 0 14 10 510.6371 Tm
+(When you are having problems with a piece of software, don't claim you h\ave found a bug unless you )Tj
+0 -1.2 TD
+(are very, )Tj
+/T1_2 1 Tf
+(very)Tj
+/T1_0 1 Tf
+( sure of your ground. Hint: unless you can provide a source-code patch t\hat fixes the )Tj
+T*
+(problem, or a regression test against a previous version that demonstrat\es incorrect behavior, you are )Tj
+0 -1.2 TD
+(probably not sure enough. This applies to webpages and documentation, to\o; if you have found a )Tj
+0 -1.2 TD
+(documentation \223bug\224, you should supply replacement text and which \pages it should go on.)Tj
+0 -2.557 TD
+(Remember, there are many other users that are not experiencing your prob\lem. Otherwise you would )Tj
+0 -1.2 TD
+(have learned about it while reading the documentation and searching the \Web \(you did do that before )Tj
+T*
+(complaining, )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+87 371.92 m
+142.804 371.92 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 87 374.0371 Tm
+(didn't you)Tj
+0 0 0 rg
+(?\). This means that very probably it is you who are doing something wro\ng, not )Tj
+-5.5 -1.343 Td
+(the software.)Tj
+0 -2.557 TD
+(The people who wrote the software work very hard to make it work as well\ as possible. If you claim you )Tj
+0 -1.2 TD
+(have found a bug, you'll be impugning their competence, which may offend\ some of them even if you )Tj
+0 -1.2 TD
+(are correct. It's especially undiplomatic to yell \223bug\224 in the Sub\ject line.)Tj
+0 -2.557 TD
+(When asking your question, it is best to write as though you assume )Tj
+/T1_2 1 Tf
+(you)Tj
+/T1_0 1 Tf
+( are doing something wrong, )Tj
+0 -1.2 TD
+(even if you are privately pretty sure you have found an actual bug. If t\here really is a bug, you will hear )Tj
+T*
+(about it in the answer. Play it so the maintainers will want to apologiz\e to you if the bug is real, rather )Tj
+T*
+(than so that you will owe them an apology if you have messed up.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 161.7073 Tm
+(Grovelling is not a substitute for doing your homework)Tj
+/T1_0 1 Tf
+14 0 0 14 10 125.4525 Tm
+(Some people who get that they shouldn't behave rudely or arrogantly, dem\anding an answer, retreat to )Tj
+0 -1.2 TD
+(the opposite extreme of grovelling. \223I know I'm just a pathetic newbi\e loser, but...\224. This is distracting )Tj
+T*
+(and unhelpful. It's especially annoying when it's coupled with vagueness\ about the actual problem.)Tj
+0 -2.557 TD
+(Don't waste your time, or ours, on crude primate politics. Instead, pres\ent the background facts and your )Tj
+0 -1.2 TD
+(question as clearly as you can. That is a better way to position yoursel\f than by grovelling.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(13 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj220 0 obj<</Length 3539>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 733.4525 Tm
+(Sometimes Web forums have separate places for newbie questions. If you f\eel you do have a newbie )Tj
+0 -1.2 TD
+(question, just go there. But don't grovel there either.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 678.7227 Tm
+(Describe the problem's symptoms, not your guesses)Tj
+/T1_0 1 Tf
+14 0 0 14 10 642.4679 Tm
+(It's not useful to tell hackers what you think is causing your problem. \\(If your diagnostic theories were )Tj
+T*
+(such hot stuff, would you be consulting others for help?\) So, make sure\ you're telling them the raw )Tj
+T*
+(symptoms of what goes wrong, rather than your interpretations and theori\es. Let them do the )Tj
+0 -1.2 TD
+(interpretation and diagnosis. If you feel it's important to state your g\uess, clearly label it as such and )Tj
+0 -1.2 TD
+(describe why that answer isn't working for you.)Tj
+/T1_2 1 Tf
+0 -2.557 TD
+(Stupid:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(I'm getting back-to-back SIG11 errors on kernel compiles, and suspect a \hairline crack on one of )Tj
+0 -1.2 TD
+(the motherboard traces. What's the best way to check for those?)Tj
+/T1_2 1 Tf
+-2.857 -2.557 Td
+(Smart:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(My home-built K6/233 on an FIC-PA2007 motherboard \(VIA Apollo VP2 chips\et\) with 256MB )Tj
+T*
+(Corsair PC133 SDRAM starts getting frequent SIG11 errors about 20 minute\s after power-on )Tj
+T*
+(during the course of kernel compiles, but never in the first 20 minutes.\ Rebooting doesn't restart )Tj
+T*
+(the clock, but powering down overnight does. Swapping out all RAM didn't\ help. The relevant )Tj
+T*
+(part of a typical compile session log follows.)Tj
+-2.857 -2.557 Td
+(Since the preceding point seems to be a tough one for many people to gra\sp, here's a phrase to remind )Tj
+T*
+(you: "All diagnosticians are from Missouri." That US state's official mo\tto is "Show me" \(earned in )Tj
+T*
+(1899, when Congressman Willard D. Vandiver said "I come from a country t\hat raises corn and cotton )Tj
+T*
+(and cockleburs and Democrats, and frothy eloquence neither convinces nor\ satisfies me. I'm from )Tj
+T*
+(Missouri. You've got to show me."\) In diagnosticians' case, it's not a \matter of skepticism, but rather a )Tj
+T*
+(literal, functional need to see whatever is as close as possible to the \same raw evidence that you see, )Tj
+T*
+(rather than your surmises and summaries. Show us.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 173.538 Tm
+(Describe your problem's symptoms in chronological order)Tj
+/T1_0 1 Tf
+14 0 0 14 10 137.2832 Tm
+(The clues most useful in figuring out something that went wrong often li\e in the events immediately )Tj
+0 -1.2 TD
+(prior. So, your account should describe precisely what you did, and what\ the machine did, leading up to )Tj
+T*
+(the blowup. In the case of command-line processes, having a session log \\(e.g., using the script utility\) )Tj
+0 -1.2 TD
+(and quoting the relevant twenty or so lines is very useful.)Tj
+0 -2.557 TD
+(If the program that blew up on you has diagnostic options \(such as -v f\or verbose\), try to select options )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(14 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj221 0 obj<</Length 3283>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(that will add useful debugging information to the transcript. Remember t\hat more is not necessarily )Tj
+0 -1.2 TD
+(better; try to choose a debug level that will inform rather than drownin\g the reader in junk.)Tj
+0 -2.557 TD
+(If your account ends up being long \(more than about four paragraphs\), \it might be useful to succinctly )Tj
+0 -1.2 TD
+(state the problem up top, then follow with the chronological tale. That \way, hackers will know what to )Tj
+T*
+(watch for in reading your account.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 629.8457 Tm
+(Describe the goal, not the step)Tj
+/T1_0 1 Tf
+14 0 0 14 10 593.5909 Tm
+(If you are trying to find out how to do something \(as opposed to report\ing a bug\), begin by describing )Tj
+0 -1.2 TD
+(the goal. Only then describe the particular step towards it that you are\ blocked on.)Tj
+0 -2.557 TD
+(Often, people who need technical help have a high-level goal in mind and\ get stuck on what they think is )Tj
+0 -1.2 TD
+(one particular path towards the goal. They come for help with the step, \but don't realize that the path is )Tj
+T*
+(wrong. It can take substantial effort to get past this.)Tj
+/T1_2 1 Tf
+0 -2.557 TD
+(Stupid:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(How do I get the color-picker on the FooDraw program to take a hexadecim\al RGB value?)Tj
+/T1_2 1 Tf
+-2.857 -2.557 Td
+(Smart:)Tj
+/T1_0 1 Tf
+( )Tj
+2.857 -2.557 Td
+(I'm trying to replace the color table on an image with values of my choo\sing. Right now the only )Tj
+0 -1.2 TD
+(way I can see to do this is by editing each table slot, but I can't get \FooDraw's color picker to take )Tj
+T*
+(a hexadecimal RGB value.)Tj
+-2.857 -2.557 Td
+(The second version of the question is smart. It allows an answer that su\ggests a tool better suited to the )Tj
+T*
+(task.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 240.0611 Tm
+(Don't ask people to reply by private e-mail)Tj
+/T1_0 1 Tf
+14 0 0 14 10 203.8063 Tm
+(Hackers believe solving problems should be a public, transparent process\ during which a first try at an )Tj
+0 -1.2 TD
+(answer can and should be corrected if someone more knowledgeable notices\ that it is incomplete or )Tj
+T*
+(incorrect. Also, helpers get some of their reward for being respondents \from being seen to be competent )Tj
+0 -1.2 TD
+(and knowledgeable by their peers.)Tj
+0 -2.557 TD
+(When you ask for a private reply, you are disrupting both the process an\d the reward. Don't do this. It's )Tj
+0 -1.2 TD
+(the )Tj
+/T1_3 1 Tf
+(respondent's)Tj
+/T1_0 1 Tf
+( choice whether to reply privately \227 and if he does, it's usually bec\ause he thinks the )Tj
+T*
+(question is too ill-formed or obvious to be interesting to others.)Tj
+0 -2.557 TD
+(There is one limited exception to this rule. If you think the question i\s such that you are likely to get )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(15 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj222 0 obj<</Length 3608>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(many answers that are all closely similar, then the magic words are \223\e-mail me and I'll summarize the )Tj
+0 -1.2 TD
+(answers for the group\224. It is courteous to try and save the mailing l\ist or newsgroup a flood of )Tj
+T*
+(substantially identical postings \227 but you have to keep the promise t\o summarize.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 682.4457 Tm
+(Be explicit about your question)Tj
+/T1_0 1 Tf
+14 0 0 14 10 646.1909 Tm
+(Open-ended questions tend to be perceived as open-ended time sinks. Thos\e people most likely to be )Tj
+T*
+(able to give you a useful answer are also the busiest people \(if only b\ecause they take on the most work )Tj
+T*
+(themselves\). People like that are allergic to open-ended time sinks, th\us they tend to be allergic to open-)Tj
+0 -1.2 TD
+(ended questions.)Tj
+0 -2.557 TD
+(You are more likely to get a useful response if you are explicit about w\hat you want respondents to do )Tj
+0 -1.2 TD
+(\(provide pointers, send code, check your patch, whatever\). This will f\ocus their effort and implicitly put )Tj
+T*
+(an upper bound on the time and energy a respondent must allocate to help\ing you. This is good.)Tj
+0 -2.557 TD
+(To understand the world the experts live in, think of expertise as an ab\undant resource and time to )Tj
+0 -1.2 TD
+(respond as a scarce one. The less of a time commitment you implicitly as\k for, the more likely you are to )Tj
+T*
+(get an answer from someone really good and really busy.)Tj
+0 -2.557 TD
+(So it is useful to frame your question to minimize the time commitment r\equired for an expert to field it )Tj
+0 -1.2 TD
+(\227 but this is often not the same thing as simplifying the question. T\hus, for example, \223Would you give )Tj
+T*
+(me a pointer to a good explanation of X?\224 is usually a smarter questi\on than \223Would you explain X, )Tj
+T*
+(please?\224. If you have some malfunctioning code, it is usually smarter\ to ask for someone to explain )Tj
+T*
+(what's wrong with it than it is to ask someone to fix it.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 316.0611 Tm
+(When asking about code)Tj
+/T1_0 1 Tf
+14 0 0 14 10 279.8063 Tm
+(Don't ask others to debug your broken code without giving a hint what so\rt of problem they should be )Tj
+0 -1.2 TD
+(searching for. Posting a few hundred lines of code, saying "it doesn't w\ork", will get you ignored. )Tj
+T*
+(Posting a dozen lines of code, saying "after line 7 I was expecting to s\ee <x>, but <y> occurred instead" )Tj
+0 -1.2 TD
+(is much more likely to get you a response.)Tj
+0 -2.557 TD
+(If you simply want a code review, say as much up front, and be sure to m\ention what areas you think )Tj
+0 -1.2 TD
+(might particularly need review and why.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 138.8765 Tm
+(Don't post homework questions)Tj
+/T1_0 1 Tf
+14 0 0 14 10 102.6217 Tm
+(Hackers are good at spotting homework questions; most of us have done th\em ourselves. Those )Tj
+0 -1.2 TD
+(questions are for )Tj
+/T1_2 1 Tf
+(you)Tj
+/T1_0 1 Tf
+( to work out, so that you will learn from the experience. It is OK to as\k for hints, )Tj
+T*
+(but not for entire solutions.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(16 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj223 0 obj<</Length 3292>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+14 0 0 14 10 747.1909 Tm
+(If you can't help, don't hinder.)Tj
+/T1_0 1 Tf
+( Don't make jokes about procedures that could trash the user's setup \227\ the )Tj
+0 -1.2 TD
+(poor sap might interpret these as instructions.)Tj
+/T1_1 1 Tf
+0 -2.557 TD
+(Ask probing questions to elicit more details.)Tj
+/T1_0 1 Tf
+( If you're good at this, the querent will learn something \227 )Tj
+0 -1.2 TD
+(and so might you. Try to turn the bad question into a good one; remember\ we were all newbies once.)Tj
+0 -2.557 TD
+(While just muttering RTFM is sometimes justified when replying to someon\e who is just a lazy slob, a )Tj
+0 -1.2 TD
+(pointer to documentation \(even if it's just a suggestion to google for \a key phrase\) is better.)Tj
+/T1_1 1 Tf
+0 -2.557 TD
+(If you're going to answer the question at all, give good value.)Tj
+/T1_0 1 Tf
+( Don't suggest kludgy workarounds when )Tj
+0 -1.2 TD
+(somebody is using the wrong tool or approach. Suggest good tools. Refram\e the question.)Tj
+/T1_1 1 Tf
+0 -2.557 TD
+(Help your community learn from the question.)Tj
+/T1_0 1 Tf
+( When you field a good question, ask yourself \223How )Tj
+0 -1.2 TD
+(would the relevant documentation or FAQ have to change so that nobody ha\s to answer this again?\224 )Tj
+T*
+(Then send a patch to the document maintainer.)Tj
+0 -2.557 TD
+(If you did research to answer the question, )Tj
+/T1_1 1 Tf
+(demonstrate your skills rather than writing as though you )Tj
+0 -1.2 TD
+(pulled the answer out of your butt.)Tj
+/T1_0 1 Tf
+( Answering one good question is like feeding a hungry person one )Tj
+T*
+(meal, but teaching them research skills by example is teaching them to g\row food for a lifetime.)Tj
+/T1_2 1 Tf
+19.3846 0 0 19.3846 10 374.0303 Tm
+(Related Resources)Tj
+/T1_0 1 Tf
+14 0 0 14 10 336.7294 Tm
+(If you need instruction in the basics of how personal computers, Unix, a\nd the Internet work, see )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+555.902 334.613 m
+581.172 334.613 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 555.902 336.7294 Tm
+(The )Tj
+ET
+10 315.813 m
+246.404 315.813 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 317.9294 Tm
+(Unix and Internet Fundamentals HOWTO)Tj
+0 0 0 rg
+(. )Tj
+0 -2.7 TD
+(When you release software or write patches for software, try to follow t\he guidelines in the )Tj
+ET
+523.604 278.013 m
+577.644 278.013 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 523.604 280.1294 Tm
+(Software )Tj
+ET
+10 259.213 m
+157.728 259.213 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 261.3294 Tm
+(Release Practice HOWTO)Tj
+0 0 0 rg
+(.)Tj
+/T1_2 1 Tf
+19.3846 0 0 19.3846 10 199.5687 Tm
+(Acknowledgements)Tj
+/T1_0 1 Tf
+14 0 0 14 10 162.2679 Tm
+(Evelyn Mitchell contributed some example stupid questions and inspired t\he \223How To Give A Good )Tj
+0 -1.2 TD
+(Answer\224 section. Mikhail Ramendik contributed some particularly valua\ble suggestions for )Tj
+T*
+(improvements.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(26 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj224 0 obj<</Length 3893>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(If you suspect you have been passed a homework question, but can't solve\ it anyway, try asking in a user )Tj
+0 -1.2 TD
+(group forum or \(as a last resort\) in a \223user\224 list/forum of a pr\oject. While the hackers )Tj
+/T1_1 1 Tf
+(will)Tj
+/T1_0 1 Tf
+( spot it, some )Tj
+T*
+(of the advanced users may at least give you a hint.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 682.4457 Tm
+(Prune pointless queries)Tj
+/T1_0 1 Tf
+14 0 0 14 10 646.1909 Tm
+(Resist the temptation to close your request for help with semantically-n\ull questions like \223Can anyone )Tj
+T*
+(help me?\224 or \223Is there an answer?\224 First: if you've written you\r problem description halfway )Tj
+T*
+(competently, such tacked-on questions are at best superfluous. Second: b\ecause they are superfluous, )Tj
+0 -1.2 TD
+(hackers find them annoying \227 and are likely to return logically impec\cable but dismissive answers like )Tj
+0 -1.2 TD
+(\223Yes, you can be helped\224 and \223No, there is no help for you.\224\)Tj
+0 -2.557 TD
+(In general, asking yes-or-no questions is a good thing to avoid unless y\ou want a )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+465.728 541.074 m
+562.524 541.074 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 465.728 543.1909 Tm
+(yes-or-no answer)Tj
+0 0 0 rg
+(.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 503.2611 Tm
+(Don't flag your question as \223Urgent\224, even if it is for you)Tj
+/T1_0 1 Tf
+14 0 0 14 10 467.0063 Tm
+(That's your problem, not ours. Claiming urgency is very likely to be cou\nter-productive: most hackers )Tj
+0 -1.2 TD
+(will simply delete such messages as rude and selfish attempts to elicit \immediate and special attention.)Tj
+0 -2.557 TD
+(There is one semi-exception. It can be worth mentioning if you're using \the program in some high-)Tj
+0 -1.2 TD
+(profile place, one that the hackers will get excited about; in such a ca\se, if you're under time pressure, )Tj
+T*
+(and you say so politely, people may get interested enough to answer fast\er.)Tj
+0 -2.557 TD
+(This is a very risky thing to do, however, because the hackers' metric f\or what is exciting probably )Tj
+0 -1.2 TD
+(differs from yours. Posting from the International Space Station would q\ualify, for example, but posting )Tj
+T*
+(on behalf of a feel-good charitable or political cause would almost cert\ainly not. In fact, posting )Tj
+T*
+(\223Urgent: Help me save the fuzzy baby seals!\224 will reliably get you\ shunned or flamed even by hackers )Tj
+T*
+(who think fuzzy baby seals are important.)Tj
+0 -2.557 TD
+(If you find this mysterious, re-read the rest of this how-to repeatedly \until you understand it before )Tj
+0 -1.2 TD
+(posting anything at all.)Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 187.2765 Tm
+(Courtesy never hurts, and sometimes helps)Tj
+/T1_0 1 Tf
+14 0 0 14 10 151.0217 Tm
+(Be courteous. Use \223Please\224 and \223Thanks for your attention\224 o\r \223Thanks for your consideration\224. Make it )Tj
+0 -1.2 TD
+(clear you appreciate the time people spend helping you for free.)Tj
+0 -2.557 TD
+(To be honest, this isn't as important as \(and cannot substitute for\) b\eing grammatical, clear, precise and )Tj
+0 -1.2 TD
+(descriptive, avoiding proprietary formats etc.; hackers in general would\ rather get somewhat brusque but )Tj
+T*
+(technically sharp bug reports than polite vagueness. \(If this puzzles y\ou, remember that we value a )Tj
+T*
+(question by what it teaches us.\))Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(17 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj225 0 obj<</Length 4018>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 742.2217 Tm
+(However, if you've got your technical ducks in a row, politeness does in\crease your chances of getting a )Tj
+0 -1.2 TD
+(useful answer.)Tj
+0 -2.557 TD
+(\(We must note that the only serious objection we've received from veter\an hackers to this HOWTO is )Tj
+0 -1.2 TD
+(with respect to our previous recommendation to use \223Thanks in advance\\224. Some hackers feel this )Tj
+T*
+(connotes an intention not to thank anybody afterwards. Our recommendatio\n is to either say \223Thanks in )Tj
+T*
+(advance\224 first )Tj
+/T1_1 1 Tf
+(and)Tj
+/T1_0 1 Tf
+( thank respondents afterwards, or express courtesy in a different way, s\uch as by )Tj
+T*
+(saying \223Thanks for your attention\224 or \223Thanks for your consider\ation\224.\))Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 584.4919 Tm
+(Follow up with a brief note on the solution)Tj
+/T1_0 1 Tf
+14 0 0 14 10 548.2371 Tm
+(Send a note after the problem has been solved to all who helped you; let\ them know how it came out and )Tj
+0 -1.2 TD
+(thank them again for their help. If the problem attracted general intere\st in a mailing list or newsgroup, )Tj
+T*
+(it's appropriate to post the followup there.)Tj
+0 -2.557 TD
+(Optimally, the reply should be to the thread started by the original que\stion posting, and should have )Tj
+0 -1.2 TD
+(\221FIXED\222, \221RESOLVED\222 or an equally obvious tag in the subject\ line. On mailing lists with fast )Tj
+T*
+(turnaround, a potential respondent who sees a thread about \223Problem X\\224 ending with \223Problem X - )Tj
+T*
+(FIXED\224 knows not to waste his/her time even reading the thread \(unle\ss \(s\)he\) personally finds Problem )Tj
+0 -1.2 TD
+(X interesting\) and can therefore use that time solving a different prob\lem.)Tj
+0 -2.557 TD
+(Your followup doesn't have to be long and involved; a simple \223Howdy \227\ it was a failed network cable! )Tj
+0 -1.2 TD
+(Thanks, everyone. - Bill\224 would be better than nothing. In fact, a sh\ort and sweet summary is better than )Tj
+T*
+(a long dissertation unless the solution has real technical depth. Say wh\at action solved the problem, but )Tj
+T*
+(you need not replay the whole troubleshooting sequence.)Tj
+0 -2.557 TD
+(For problems with some depth, it is appropriate to post a summary of the\ troubleshooting history. )Tj
+0 -1.2 TD
+(Describe your final problem statement. Describe what worked as a solutio\n, and indicate avoidable blind )Tj
+T*
+(alleys )Tj
+/T1_1 1 Tf
+(after that)Tj
+/T1_0 1 Tf
+(. The blind alleys should come after the correct solution and other summ\ary material, )Tj
+T*
+(rather than turning the follow-up into a detective story. Name the names\ of people who helped you; )Tj
+T*
+(you'll make friends that way.)Tj
+0 -2.557 TD
+(Besides being courteous and informative, this sort of followup will help\ others searching the archive of )Tj
+0 -1.2 TD
+(the mailing-list/newsgroup/forum to know exactly which solution helped y\ou and thus may also help )Tj
+T*
+(them.)Tj
+0 -2.557 TD
+(Last, and not least, this sort of followup helps everybody who assisted \feel a satisfying sense of closure )Tj
+0 -1.2 TD
+(about the problem. If you are not a techie or hacker yourself, trust us \that this feeling is very important )Tj
+T*
+(to the gurus and experts you tapped for help. Problem narratives that tr\ail off into unresolved )Tj
+0 -1.2 TD
+(nothingness are frustrating things; hackers itch to see them resolved. T\he goodwill that scratching that )Tj
+T*
+(itch earns you will be very, very helpful to you next time you need to p\ose a question. )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(18 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj226 0 obj<</Length 3478>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 744.2371 Tm
+(Consider how you might be able to prevent others from having the same pr\oblem in the future. Ask )Tj
+0 -1.2 TD
+(yourself if a documentation or FAQ patch would help, and if the answer i\s yes send that patch to the )Tj
+T*
+(maintainer.)Tj
+0 -2.557 TD
+(Among hackers, this sort of good followup behavior is actually more impo\rtant than conventional )Tj
+0 -1.2 TD
+(politeness. It's how you get a reputation for playing well with others, \which can be a very valuable asset.)Tj
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 598.2764 Tm
+(How To Interpret Answers)Tj
+16.1538 0 0 16.1538 10 558.8457 Tm
+(RTFM and STFW: How To Tell You've Seriously Screwed Up)Tj
+/T1_0 1 Tf
+14 0 0 14 10 522.5909 Tm
+(There is an ancient and hallowed tradition: if you get a reply that read\s \223RTFM\224, the person who sent it )Tj
+0 -1.2 TD
+(thinks you should have Read The Fucking Manual. He or she is almost cert\ainly right. Go read it.)Tj
+0 -2.557 TD
+(RTFM has a younger relative. If you get a reply that reads \223STFW\224,\ the person who sent it thinks you )Tj
+0 -1.2 TD
+(should have Searched The Fucking Web. He or she is almost certainly righ\t. Go search it. \(The milder )Tj
+T*
+(version of this is when you are told \223Google is your friend!\224\))Tj
+0 -2.557 TD
+(In Web forums, you may also be told to search the forum archives. In fac\t, someone may even be so )Tj
+0 -1.2 TD
+(kind as to provide a pointer to the previous thread where this problem w\as solved. But do not rely on this )Tj
+T*
+(consideration; do your archive-searching before asking.)Tj
+0 -2.557 TD
+(Often, the person telling you to do a search has the manual or the web p\age with the information you )Tj
+0 -1.2 TD
+(need open, and is looking at it as he or she types. These replies mean t\hat he thinks \(a\) the information )Tj
+T*
+(you need is easy to find, and \(b\) you will learn more if you seek out \the information than if you have it )Tj
+T*
+(spoon-fed to you.)Tj
+0 -2.557 TD
+(You shouldn't be offended by this; by hacker standards, your respondent \is showing you a rough kind of )Tj
+0 -1.2 TD
+(respect simply by not ignoring you. You should instead be thankful for t\his grandmotherly kindness.)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 190.2611 Tm
+(If you don't understand...)Tj
+/T1_0 1 Tf
+14 0 0 14 10 154.0063 Tm
+(If you don't understand the answer, do not immediately bounce back a dem\and for clarification. Use the )Tj
+0 -1.2 TD
+(same tools that you used to try and answer your original question \(manu\als, FAQs, the Web, skilled )Tj
+T*
+(friends\) to understand the answer. Then, if you still need to ask for c\larification, exhibit what you have )Tj
+0 -1.2 TD
+(learned.)Tj
+0 -2.557 TD
+(For example, suppose I tell you: \223It sounds like you've got a stuck z\entry; you'll need to clear it.\224 Then: )Tj
+0 -1.2 TD
+(here's a )Tj
+/T1_2 1 Tf
+(bad)Tj
+/T1_0 1 Tf
+( followup question: \223What's a zentry?\224 Here's a )Tj
+/T1_2 1 Tf
+(good)Tj
+/T1_0 1 Tf
+( followup question: \223OK, I read the )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(19 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj227 0 obj<</Length 3866>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(man page and zentries are only mentioned under the -z and -p switches. N\either of them says anything )Tj
+0 -1.2 TD
+(about clearing zentries. Is it one of these or am I missing something he\re?\224)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 699.2457 Tm
+(Dealing with rudeness)Tj
+/T1_0 1 Tf
+14 0 0 14 10 662.9909 Tm
+(Much of what looks like rudeness in hacker circles is not intended to gi\ve offense. Rather, it's the )Tj
+T*
+(product of the direct, cut-through-the-bullshit communications style tha\t is natural to people who are )Tj
+T*
+(more concerned about solving problems than making others feel warm and f\uzzy.)Tj
+0 -2.557 TD
+(When you perceive rudeness, try to react calmly. If someone is really ac\ting out, it is very likely a senior )Tj
+0 -1.2 TD
+(person on the list or newsgroup or forum will call him or her on it. If \that )Tj
+/T1_2 1 Tf
+(doesn't)Tj
+/T1_0 1 Tf
+( happen and you lose )Tj
+T*
+(your temper, it is likely that the person you lose it at was behaving wi\thin the hacker community's norms )Tj
+T*
+(and )Tj
+/T1_2 1 Tf
+(you)Tj
+/T1_0 1 Tf
+( will be considered at fault. This will hurt your chances of getting the\ information or help you )Tj
+0 -1.2 TD
+(want.)Tj
+0 -2.557 TD
+(On the other hand, you will occasionally run across rudeness and posturi\ng that is quite gratuitous. The )Tj
+0 -1.2 TD
+(flip-side of the above is that it is acceptable form to slam real offend\ers quite hard, dissecting their )Tj
+T*
+(misbehavior with a sharp verbal scalpel. Be very, very sure of your grou\nd before you try this, however. )Tj
+T*
+(The line between correcting an incivility and starting a pointless flame\war is thin enough that hackers )Tj
+T*
+(themselves not infrequently blunder across it; if you are a newbie or an\ outsider, your chances of )Tj
+T*
+(avoiding such a blunder are low. If you're after information rather than\ entertainment, it's better to keep )Tj
+T*
+(your fingers off the keyboard than to risk this.)Tj
+0 -2.557 TD
+(\(Some people assert that many hackers have a mild form of autism or Asp\erger's Syndrome, and are )Tj
+0 -1.2 TD
+(actually missing some of the brain circuitry that lubricates \223normal\224\ human social interaction. This may )Tj
+T*
+(or may not be true. If you are not a hacker yourself, it may help you co\pe with our eccentricities if you )Tj
+T*
+(think of us as being brain-damaged. Go right ahead. We won't care; we )Tj
+/T1_2 1 Tf
+(like)Tj
+/T1_0 1 Tf
+( being whatever it is we are, )Tj
+T*
+(and generally have a healthy skepticism about clinical labels.\))Tj
+0 -2.557 TD
+(In the next section, we'll talk about a different issue; the kind of \223\rudeness\224 you'll see when )Tj
+/T1_2 1 Tf
+(you)Tj
+/T1_0 1 Tf
+( )Tj
+0 -1.2 TD
+(misbehave.)Tj
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 174.4303 Tm
+(On Not Reacting Like A Loser)Tj
+/T1_0 1 Tf
+14 0 0 14 10 137.1294 Tm
+(Odds are you'll screw up a few times on hacker community forums \227 in \ways detailed in this article, or )Tj
+0 -1.2 TD
+(similar. And you'll be told exactly how you screwed up, possibly with co\lourful asides. In public.)Tj
+0 -2.557 TD
+(When this happens, the worst thing you can do is whine about the experie\nce, claim to have been )Tj
+0 -1.2 TD
+(verbally assaulted, demand apologies, scream, hold your breath, threaten\ lawsuits, complain to people's )Tj
+T*
+(employers, leave the toilet seat up, etc. Instead, here's what you do:)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(20 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj228 0 obj<</Length 3712>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 745.1294 Tm
+(Get over it. It's normal. In fact, it's healthy and appropriate.)Tj
+0 -2.557 TD
+(Community standards do not maintain themselves: They're maintained by pe\ople actively applying )Tj
+0 -1.2 TD
+(them, visibly, )Tj
+/T1_1 1 Tf
+(in public)Tj
+/T1_0 1 Tf
+(. Don't whine that all criticism should have been conveyed via private e\-mail: )Tj
+0 -1.2 TD
+(That's not how it works. Nor is it useful to insist you've been personal\ly insulted when someone )Tj
+T*
+(comments that one of your claims was wrong, or that his views differ. Th\ose are loser attitudes.)Tj
+0 -2.557 TD
+(There have been hacker forums where, out of some misguided sense of hype\r-courtesy, participants are )Tj
+0 -1.2 TD
+(banned from posting any fault-finding with another's posts, and told \223\Don't say anything if you're )Tj
+T*
+(unwilling to help the user.\224 The resulting departure of clueful parti\cipants to elsewhere causes them to )Tj
+T*
+(descend into meaningless babble and become useless as technical forums.)Tj
+0 -2.557 TD
+(Exaggeratedly \223friendly\224 \(in that fashion\) or useful: Pick one.)Tj
+0 -2.557 TD
+(Remember: When that hacker tells you that you've screwed up, and \(no ma\tter how gruffly\) tells you not )Tj
+0 -1.2 TD
+(to do it again, he's acting out of concern for \(1\) you and \(2\) his c\ommunity. It would be much easier for )Tj
+T*
+(him to ignore you and filter you out of his life. If you can't manage to\ be grateful, at least have a little )Tj
+T*
+(dignity, don't whine, and don't expect to be treated like a fragile doll\ just because you're a newcomer )Tj
+T*
+(with a theatrically hypersensitive soul and delusions of entitlement.)Tj
+0 -2.557 TD
+(Sometimes people will attack you personally, flame without an apparent r\eason, etc., even if you don't )Tj
+0 -1.2 TD
+(screw up \(or have only screwed up in their imagination\). In this case,\ complaining is the way to )Tj
+/T1_1 1 Tf
+(really)Tj
+/T1_0 1 Tf
+( )Tj
+T*
+(screw up.)Tj
+0 -2.557 TD
+(These flamers are either lamers who don't have a clue but believe themse\lves to be experts, or would-be )Tj
+0 -1.2 TD
+(psychologists testing whether you'll screw up. The other readers either \ignore them, or find ways to deal )Tj
+T*
+(with them on their own. The flamers' behavior creates problems for thems\elves, which don't have to )Tj
+0 -1.2 TD
+(concern you.)Tj
+0 -2.557 TD
+(Don't let yourself be drawn into a flamewar, either. Most flames are bes\t ignored \227 after you've )Tj
+0 -1.2 TD
+(checked whether they are really flames, not pointers to the ways in whic\h you have screwed up, and not )Tj
+T*
+(cleverly ciphered answers to your real question \(this happens as well\)\.)Tj
+/T1_2 1 Tf
+19.3846 0 0 19.3846 10 149.1687 Tm
+(Questions Not To Ask)Tj
+/T1_0 1 Tf
+14 0 0 14 10 111.8679 Tm
+(Here are some classic stupid questions, and what hackers are thinking wh\en they don't answer them.)Tj
+0 -2.557 TD
+(Q: )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+27.5 73.951 m
+258.794 73.951 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 76.0679 Tm
+(Where can I find program or resource X?)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 55.151 m
+173.296 55.151 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 57.2679 Tm
+(How can I use X to do Y?)Tj
+0 0 0 rg
+( )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(21 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj229 0 obj<</Length 4531>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(Q: )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+27.5 751.859 m
+244.458 751.859 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 753.9756 Tm
+(How can I configure my shell prompt?)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 733.059 m
+546.172 733.059 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 735.1756 Tm
+(Can I convert an AcmeCorp document into a TeX file using the Bass-o-mati\c file converter?)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 714.259 m
+359.202 714.259 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 716.3755 Tm
+(My {program, configuration, SQL statement} doesn't work)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 695.459 m
+388.546 695.459 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 697.5756 Tm
+(I'm having problems with my Windows machine. Can you help?)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 676.659 m
+374.546 676.659 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 678.7756 Tm
+(My program doesn't work. I think system facility X is broken.)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 657.859 m
+352.006 657.859 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 659.9756 Tm
+(I'm having problems installing Linux or X. Can you help?)Tj
+0 0 0 rg
+( )Tj
+-1.25 -1.343 Td
+(Q: )Tj
+ET
+27.5 639.059 m
+439.8 639.059 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 27.5 641.1756 Tm
+(How can I crack root/steal channel-ops privileges/read someone's e-mail?\)Tj
+0 0 0 rg
+/T1_1 1 Tf
+-1.036 -2.914 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(Where can I find program or resource X?)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(The same place I'd find it, fool \227 at the other end of a web search. \Ghod, doesn't everybody know )Tj
+0 -1.2 TD
+(how to use )Tj
+ET
+96.716 560.659 m
+137.932 560.659 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 96.716 562.7756 Tm
+(Google)Tj
+0 0 0 rg
+( yet?)Tj
+/T1_1 1 Tf
+-5.98 -1.629 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(How can I use X to do Y?)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(If what you want is to do Y, you should ask that question without pre-su\pposing the use of a method )Tj
+T*
+(that may not be appropriate. Questions of this form often indicate a per\son who is not merely )Tj
+T*
+(ignorant about X, but confused about what problem Y they are solving and\ too fixated on the details )Tj
+T*
+(of their particular situation. It is generally best to ignore such peopl\e until they define their problem )Tj
+T*
+(better.)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(How can I configure my shell prompt?)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(If you're smart enough to ask this question, you're smart enough to )Tj
+ET
+408.944 408.259 m
+447.066 408.259 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 408.944 410.3755 Tm
+(RTFM)Tj
+0 0 0 rg
+( and find out yourself.)Tj
+/T1_1 1 Tf
+-28.282 -1.629 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(Can I convert an AcmeCorp document into a TeX file using the Bass-o-mati\c file converter?)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(Try it and see. If you did that, you'd \(a\) learn the answer, and \(b\)\ stop wasting my time.)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(My {program, configuration, SQL statement} doesn't work)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(This is not a question, and I'm not interested in playing Twenty Questio\ns to pry your actual )Tj
+T*
+(question out of you \227 I have better things to do. On seeing something\ like this, my reaction is )Tj
+T*
+(normally of one of the following:)Tj
+/T1_2 1 Tf
+7 0 0 7 58.267 255.7756 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 72.554 255.7756 Tm
+(do you have anything else to add to that?)Tj
+/T1_2 1 Tf
+7 0 0 7 58.267 219.9756 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 72.554 219.9756 Tm
+(oh, that's too bad, I hope you get it fixed.)Tj
+/T1_2 1 Tf
+7 0 0 7 58.267 184.1756 Tm
+(l)Tj
+/T1_0 1 Tf
+(     )Tj
+14 0 0 14 72.554 184.1756 Tm
+(and this has exactly what to do with me?)Tj
+/T1_1 1 Tf
+-4.254 -2.843 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(I'm having problems with my Windows machine. Can you help?)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(22 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj230 0 obj<</Length 4092>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+14 0 0 14 13 750.9756 Tm
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(Yes. Throw out that Microsoft trash and install an open-source operating\ system like Linux or BSD.)Tj
+0 -2.557 TD
+(Note: you )Tj
+/T1_2 1 Tf
+(can)Tj
+/T1_0 1 Tf
+( ask questions related to Windows machines if they are about a program t\hat does )Tj
+0 -1.2 TD
+(have an official Windows build, or interacts with Windows machines \(i.e\., Samba\). Just don't be )Tj
+0 -1.2 TD
+(surprised by the reply that the problem is with Windows and not the prog\ram, because Windows is )Tj
+T*
+(so broken in general that this is very often the case.)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(My program doesn't work. I think system facility X is broken.)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(While it is possible that you are the first person to notice an obvious \deficiency in system calls and )Tj
+0 -1.2 TD
+(libraries heavily used by hundreds or thousands of people, it is rather \more likely that you are )Tj
+T*
+(utterly clueless. Extraordinary claims require extraordinary evidence; w\hen you make a claim like )Tj
+T*
+(this one, you must back it up with clear and exhaustive documentation of\ the failure case.)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(I'm having problems installing Linux or X. Can you help?)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(No. I'd need hands-on access to your machine to troubleshoot this. Go as\k your local Linux user )Tj
+0 -1.2 TD
+(group for hands-on help. \(You can find a list of user groups )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+369.66 512.259 m
+393.754 512.259 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 369.66 514.3755 Tm
+(here)Tj
+0 0 0 rg
+(.\))Tj
+-24.079 -2.7 Td
+(Note: questions about installing Linux may be appropriate if you're on a\ forum or mailing list about )Tj
+0 -1.2 TD
+(a particular distribution, and the problem is with )Tj
+/T1_2 1 Tf
+(that)Tj
+/T1_0 1 Tf
+( distro; or on local user groups forums. In this )Tj
+T*
+(case, be sure to describe the exact details of the failure. But do caref\ul searching first, with "linux" )Tj
+T*
+(and )Tj
+/T1_2 1 Tf
+(all)Tj
+/T1_0 1 Tf
+( suspicious pieces of hardware.)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(Q:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(How can I crack root/steal channel-ops privileges/read someone's e-mail?\)Tj
+/T1_1 1 Tf
+-1.397 -1.486 Td
+(A:)Tj
+/T1_0 1 Tf
+1.397 0 Td
+(You're a lowlife for wanting to do such things and a moron for asking a \hacker to help you.)Tj
+/T1_3 1 Tf
+19.3846 0 0 19.3846 10 340.8149 Tm
+(Good and Bad Questions)Tj
+/T1_0 1 Tf
+14 0 0 14 10 303.514 Tm
+(Finally, I'm going to illustrate how to ask questions in a smart way by \example; pairs of questions about )Tj
+0 -1.2 TD
+(the same problem, one asked in a stupid way and one in a smart way.)Tj
+/T1_1 1 Tf
+0 -2.557 TD
+(Stupid:)Tj
+/T1_0 1 Tf
+( Where can I find out stuff about the Foonly Flurbamatic? )Tj
+2.857 -2.557 Td
+(This question just begs for )Tj
+ET
+202.054 212.997 m
+250.816 212.997 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 202.054 215.114 Tm
+("STFW")Tj
+0 0 0 rg
+( as a reply.)Tj
+/T1_1 1 Tf
+-13.718 -2.7 Td
+(Smart:)Tj
+/T1_0 1 Tf
+( I used Google to try to find \223Foonly Flurbamatic 2600\224 on the Web\, but I got no useful hits. Can )Tj
+0 -1.2 TD
+(I get a pointer to programming information on this device? )Tj
+2.857 -2.557 Td
+(This one has already STFWed, and sounds like he might have a real proble\m.)Tj
+/T1_1 1 Tf
+-2.857 -2.557 Td
+(Stupid:)Tj
+/T1_0 1 Tf
+( I can't get the code from project foo to compile. Why is it broken? )Tj
+2.857 -2.557 Td
+(The querent assumes that somebody else screwed up. Arrogant git...)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(23 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj231 0 obj<</Length 3637>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+14 0 0 14 10 747.314 Tm
+(Smart:)Tj
+/T1_0 1 Tf
+( The code from project foo doesn't compile under Nulix version 6.2. I've\ read the FAQ, but it )Tj
+0 -1.2 TD
+(doesn't have anything in it about Nulix-related problems. Here's a trans\cript of my compilation attempt; )Tj
+T*
+(is it something I did? )Tj
+2.857 -2.557 Td
+(The querent has specified the environment, read the FAQ, is showing the \error, and is not )Tj
+0 -1.2 TD
+(assuming his problems are someone else's fault. This one might be worth \some attention.)Tj
+/T1_1 1 Tf
+-2.857 -2.557 Td
+(Stupid:)Tj
+/T1_0 1 Tf
+( I'm having problems with my motherboard. Can anybody help? )Tj
+2.857 -2.557 Td
+(J. Random Hacker's response to this is likely to be \223Right. Do you ne\ed burping and diapering, )Tj
+0 -1.2 TD
+(too?\224 followed by a punch of the delete key.)Tj
+/T1_1 1 Tf
+-2.857 -2.557 Td
+(Smart:)Tj
+/T1_0 1 Tf
+( I tried X, Y, and Z on the S2464 motherboard. When that didn't work, I \tried A, B, and C. Note )Tj
+0 -1.2 TD
+(the curious symptom when I tried C. Obviously the florbish is grommickin\g, but the results aren't what )Tj
+0 -1.2 TD
+(one might expect. What are the usual causes of grommicking on Athlon MP \motherboards? Anybody )Tj
+T*
+(got ideas for more tests I can run to pin down the problem? )Tj
+2.857 -2.557 Td
+(This person, on the other hand, seems worthy of an answer. He/she has ex\hibited problem-)Tj
+T*
+(solving intelligence rather than passively waiting for an answer to drop\ from on high.)Tj
+-2.857 -2.557 Td
+(In the last question, notice the subtle but important difference between\ demanding \223Give me an answer\224 )Tj
+T*
+(and \223Please help me figure out what additional diagnostics I can run \to achieve enlightenment.\224)Tj
+0 -2.557 TD
+(In fact, the form of that last question is closely based on a real incid\ent that happened in August 2001 on )Tj
+0 -1.2 TD
+(the linux-kernel mailing list \(lkml\). I \(Eric\) was the one asking th\e question that time. I was seeing )Tj
+T*
+(mysterious lockups on a Tyan S2462 motherboard. The list members supplie\d the critical information I )Tj
+T*
+(needed to solve them.)Tj
+0 -2.557 TD
+(By asking the question in the way I did, I gave people something to chew\ on; I made it easy and )Tj
+0 -1.2 TD
+(attractive for them to get involved. I demonstrated respect for my peers\' ability and invited them to )Tj
+T*
+(consult with me as a peer. I also demonstrated respect for the value of \their time by telling them the )Tj
+T*
+(blind alleys I had already run down.)Tj
+0 -2.557 TD
+(Afterwards, when I thanked everyone and remarked how well the process ha\d worked, an lkml member )Tj
+0 -1.2 TD
+(observed that he thought it had worked not because I'm a \223name\224 on\ that list, but because I asked the )Tj
+T*
+(question in the proper form.)Tj
+0 -2.557 TD
+(Hackers are in some ways a very ruthless meritocracy; I'm certain he was\ right, and that if I )Tj
+/T1_2 1 Tf
+(had)Tj
+/T1_0 1 Tf
+( behaved )Tj
+0 -1.2 TD
+(like a sponge I would have been flamed or ignored no matter who I was. H\is suggestion that I write up )Tj
+T*
+(the whole incident as instruction to others led directly to the composit\ion of this guide.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(24 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj232 0 obj<</Length 3465>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(How To Ask Questions The Smart Way)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 740.3533 Tm
+(If You Can't Get An Answer)Tj
+/T1_0 1 Tf
+14 0 0 14 10 703.0525 Tm
+(If you can't get an answer, please don't take it personally that we don'\t feel we can help you. Sometimes )Tj
+0 -1.2 TD
+(the members of the asked group may simply not know the answer. No respon\se is not the same as being )Tj
+T*
+(ignored, though admittedly it's hard to spot the difference from outside\.)Tj
+0 -2.557 TD
+(In general, simply re-posting your question is a bad idea. This will be \seen as pointlessly annoying. )Tj
+0 -1.2 TD
+(Have patience: the person with your answer may be in a different time-zo\ne and asleep. Or it may be )Tj
+T*
+(that your question wasn't well-formed to begin with.)Tj
+0 -2.557 TD
+(There are other sources of help you can go to, often sources better adap\ted to a novice's needs.)Tj
+0 -2.557 TD
+(There are many online and local user groups who are enthusiasts about th\e software, even though they )Tj
+0 -1.2 TD
+(may never have written any software themselves. These groups often form \so that people can help each )Tj
+T*
+(other and help new users.)Tj
+0 -2.557 TD
+(There are also plenty of commercial companies you can contract with for \help, both large and small )Tj
+0 -1.2 TD
+(\(Red Hat and SpikeSource are two of the best known; there are many othe\rs\). Don't be dismayed at the )Tj
+T*
+(idea of having to pay for a bit of help! After all, if your car engine b\lows a head gasket, chances are you )Tj
+T*
+(would take it to a repair shop and pay to get it fixed. Even if the soft\ware didn't cost you anything, you )Tj
+T*
+(can't expect that support to always come for free.)Tj
+0 -2.557 TD
+(For popular software like Linux, there are at least 10,000 users per dev\eloper. It's just not possible for )Tj
+0 -1.2 TD
+(one person to handle the support calls from over 10,000 users. Remember \that even if you have to pay )Tj
+T*
+(for support, you are still paying much less than if you had to buy the s\oftware as well \(and support for )Tj
+T*
+(closed-source software is usually more expensive and less competent than\ support for open-source )Tj
+T*
+(software\).)Tj
+/T1_1 1 Tf
+19.3846 0 0 19.3846 10 229.0918 Tm
+(How To Answer Questions in a Helpful Way)Tj
+/T1_2 1 Tf
+14 0 0 14 10 191.7909 Tm
+(Be gentle.)Tj
+/T1_0 1 Tf
+( Problem-related stress can make people seem rude or stupid even when th\ey're not.)Tj
+/T1_2 1 Tf
+0 -2.557 TD
+(Reply to a first offender off-line.)Tj
+/T1_0 1 Tf
+( There is no need of public humiliation for someone who may have )Tj
+0 -1.2 TD
+(made an honest mistake. A real newbie may not know how to search archive\s or where the FAQ is )Tj
+0 -1.2 TD
+(stored or posted.)Tj
+/T1_2 1 Tf
+0 -2.557 TD
+(If you don't know for sure, say so!)Tj
+/T1_0 1 Tf
+( A wrong but authoritative-sounding answer is worse than none at all. )Tj
+0 -1.2 TD
+(Don't point anyone down a wrong path simply because it's fun to sound li\ke an expert. Be humble and )Tj
+T*
+(honest; set a good example for both the querent and your peers.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.catb.org/~esr/faqs/smart-questions.html \(25 of 26\)9/18/2007\ 2:59:44 PM)Tj
+ET
+EMC 
+
+endstreamendobj233 0 obj(How To Ask Questions The Smart Way)endobj234 0 obj<</C 238 0 R/V 1.25>>endobj235 0 obj<</URL(http://www.catb.org/~esr/faqs/smart-questions.html)/S 236 0 R>>endobj236 0 obj<</G 237 0 R>>endobj237 0 obj<</CB 0/M[10.08 10.08 26.0 36.0]/S 0/PO 0/PS[792.0 612.0]/AH 0/AL 0/SU 1/AS 1/AT 70>>endobj238 0 obj[235 0 R]endobj239 0 obj(http://www.catb.org/~esr/faqs/smart-questions.html)endobj240 0 obj(øÅ`ÙëWZ[Ã»j@º¼ý)endobj241 0 obj<</TS(D:20070918185944)/ID 240 0 R/CT(text/html)/O[11 0 R 21 0 R 59 0 R 86 0 R 93 0 R 98 0 R 100 0 R 102 0 R 104 0 R 106 0 R 110 0 R 121 0 R 126 0 R 132 0 R 135 0 R 138 0 R 143 0 R 148 0 R 151 0 R 154 0 R 157 0 R 164 0 R 177 0 R 183 0 R 186 0 R 189 0 R]/S/SPS/T 233 0 R/TID 243 0 R/SI 242 0 R>>endobj242 0 obj<</TS(D:20070918185944)/AU 239 0 R>>endobj243 0 obj(NùŠxm»s×²†Háù8)endobj244 0 obj<</IDS 245 0 R/URLS 246 0 R>>endobj245 0 obj<</Names[240 0 R 241 0 R]>>endobj246 0 obj<</Names[239 0 R 241 0 R]>>endobj247 0 obj<</First 248 0 R/Parent 5 0 R/Count 1/Last 248 0 R/Title(catb.org)>>endobj248 0 obj<</Parent 247 0 R/Dest[11 0 R/XYZ 0 792 null]/SE 10 0 R/Title(How To Ask Questions The Smart Way)>>endobj249 0 obj<</Subtype/XML/Length 3408/Type/Metadata>>stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-702">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/">
+         <xap:ModifyDate>2007-09-18T14:59:44-04:00</xap:ModifyDate>
+         <xap:CreateDate>2007-09-18T14:59:43-04:00</xap:CreateDate>
+         <xap:MetadataDate>2007-09-18T14:59:44-04:00</xap:MetadataDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">How To Ask Questions The Smart Way</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xapMM:DocumentID>uuid:7e557fab-e27d-4a64-afa7-91ab01caecfe</xapMM:DocumentID>
+         <xapMM:InstanceID>uuid:25a249f7-0995-4497-83d0-fcf347f07f56</xapMM:InstanceID>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Acrobat Web Capture 7.0</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobjxref
+0 250
+0000000004 65535 f
+0000000016 00000 n
+0000000146 00000 n
+0000000231 00000 n
+0000000006 00000 f
+0000000397 00000 n
+0000000117 00001 f
+0000000465 00000 n
+0000000566 00000 n
+0000000610 00000 n
+0000000657 00000 n
+0000001494 00000 n
+0000001721 00000 n
+0000002017 00000 n
+0000002041 00000 n
+0000002193 00000 n
+0000002252 00000 n
+0000002399 00000 n
+0000002558 00000 n
+0000002786 00000 n
+0000003012 00000 n
+0000003233 00000 n
+0000003434 00000 n
+0000003657 00000 n
+0000003919 00000 n
+0000003943 00000 n
+0000004165 00000 n
+0000004387 00000 n
+0000004611 00000 n
+0000004836 00000 n
+0000005063 00000 n
+0000005289 00000 n
+0000005515 00000 n
+0000005739 00000 n
+0000005965 00000 n
+0000006188 00000 n
+0000006413 00000 n
+0000006637 00000 n
+0000006862 00000 n
+0000007089 00000 n
+0000007310 00000 n
+0000007536 00000 n
+0000007760 00000 n
+0000007981 00000 n
+0000008206 00000 n
+0000008428 00000 n
+0000008651 00000 n
+0000008875 00000 n
+0000009100 00000 n
+0000009324 00000 n
+0000009545 00000 n
+0000009768 00000 n
+0000009993 00000 n
+0000010220 00000 n
+0000010444 00000 n
+0000010669 00000 n
+0000010894 00000 n
+0000011118 00000 n
+0000011342 00000 n
+0000011567 00000 n
+0000011781 00000 n
+0000011805 00000 n
+0000011973 00000 n
+0000012158 00000 n
+0000012321 00000 n
+0000012500 00000 n
+0000012660 00000 n
+0000012839 00000 n
+0000013011 00000 n
+0000013187 00000 n
+0000013372 00000 n
+0000013558 00000 n
+0000013741 00000 n
+0000013927 00000 n
+0000014117 00000 n
+0000014282 00000 n
+0000014466 00000 n
+0000014620 00000 n
+0000014802 00000 n
+0000015024 00000 n
+0000015205 00000 n
+0000015404 00000 n
+0000015589 00000 n
+0000015774 00000 n
+0000015950 00000 n
+0000016113 00000 n
+0000016288 00000 n
+0000016489 00000 n
+0000016513 00000 n
+0000016660 00000 n
+0000016705 00000 n
+0000016885 00000 n
+0000017063 00000 n
+0000017218 00000 n
+0000017432 00000 n
+0000017456 00000 n
+0000017611 00000 n
+0000017642 00000 n
+0000017793 00000 n
+0000018006 00000 n
+0000018030 00000 n
+0000018231 00000 n
+0000018256 00000 n
+0000018470 00000 n
+0000018495 00000 n
+0000018709 00000 n
+0000018734 00000 n
+0000018950 00000 n
+0000018975 00000 n
+0000019146 00000 n
+0000019172 00000 n
+0000019402 00000 n
+0000019500 00000 n
+0000019594 00000 n
+0000019688 00000 n
+0000019779 00000 n
+0000019866 00000 n
+0000000122 00001 f
+0000019956 00000 n
+0000019981 00000 n
+0000020139 00000 n
+0000020165 00000 n
+0000000128 00001 f
+0000020395 00000 n
+0000020420 00000 n
+0000020604 00000 n
+0000020630 00000 n
+0000020847 00000 n
+0000000133 00001 f
+0000020939 00000 n
+0000020964 00000 n
+0000021188 00000 n
+0000021214 00000 n
+0000000136 00001 f
+0000021416 00000 n
+0000021441 00000 n
+0000000141 00001 f
+0000021656 00000 n
+0000021681 00000 n
+0000021883 00000 n
+0000021982 00000 n
+0000000144 00001 f
+0000022049 00000 n
+0000022074 00000 n
+0000000149 00001 f
+0000022291 00000 n
+0000022316 00000 n
+0000022533 00000 n
+0000022559 00000 n
+0000000152 00001 f
+0000022761 00000 n
+0000022786 00000 n
+0000000155 00001 f
+0000022988 00000 n
+0000023013 00000 n
+0000000159 00001 f
+0000023215 00000 n
+0000023240 00000 n
+0000023457 00000 n
+0000000165 00001 f
+0000023556 00000 n
+0000023581 00000 n
+0000023807 00000 n
+0000023841 00000 n
+0000024067 00000 n
+0000000178 00001 f
+0000024284 00000 n
+0000024309 00000 n
+0000024531 00000 n
+0000024621 00000 n
+0000024843 00000 n
+0000025065 00000 n
+0000025287 00000 n
+0000025509 00000 n
+0000025731 00000 n
+0000025951 00000 n
+0000026099 00000 n
+0000026320 00000 n
+0000000184 00001 f
+0000026550 00000 n
+0000026575 00000 n
+0000026739 00000 n
+0000026773 00000 n
+0000026998 00000 n
+0000000187 00001 f
+0000027200 00000 n
+0000027225 00000 n
+0000000191 00001 f
+0000027427 00000 n
+0000027452 00000 n
+0000027669 00000 n
+0000000198 00001 f
+0000027776 00000 n
+0000027801 00000 n
+0000027994 00000 n
+0000028044 00000 n
+0000028234 00000 n
+0000028432 00000 n
+0000000199 00001 f
+0000000200 00001 f
+0000000201 00001 f
+0000000202 00001 f
+0000000203 00001 f
+0000000204 00001 f
+0000000205 00001 f
+0000000206 00001 f
+0000000000 00001 f
+0000028627 00000 n
+0000040386 00000 n
+0000045879 00000 n
+0000052271 00000 n
+0000056859 00000 n
+0000060164 00000 n
+0000063795 00000 n
+0000067780 00000 n
+0000071849 00000 n
+0000075401 00000 n
+0000079672 00000 n
+0000083891 00000 n
+0000088055 00000 n
+0000092133 00000 n
+0000095724 00000 n
+0000099059 00000 n
+0000102719 00000 n
+0000106063 00000 n
+0000110008 00000 n
+0000114078 00000 n
+0000117608 00000 n
+0000121526 00000 n
+0000125290 00000 n
+0000129873 00000 n
+0000134017 00000 n
+0000137706 00000 n
+0000141223 00000 n
+0000141276 00000 n
+0000141314 00000 n
+0000141401 00000 n
+0000141432 00000 n
+0000141534 00000 n
+0000141560 00000 n
+0000141629 00000 n
+0000141664 00000 n
+0000141975 00000 n
+0000142028 00000 n
+0000142063 00000 n
+0000142109 00000 n
+0000142153 00000 n
+0000142197 00000 n
+0000142282 00000 n
+0000142398 00000 n
+trailer
+<</Size 250/Root 1 0 R/Info 3 0 R/ID[<A66F1D269D46114EA9434AB615E45DC6><B47CCB6DA45DA246AB58B885F3DECBDE>]>>
+startxref
+145884
+%%EOF
